@@ -22,7 +22,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -58,7 +58,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -94,7 +94,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -130,7 +130,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -382,7 +382,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -418,7 +418,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -454,7 +454,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -490,7 +490,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -742,7 +742,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -778,7 +778,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -814,7 +814,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -850,7 +850,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -1102,7 +1102,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -1138,7 +1138,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -1174,7 +1174,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -1210,7 +1210,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -1462,7 +1462,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -1498,7 +1498,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -1534,7 +1534,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -1570,7 +1570,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -1822,7 +1822,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -1858,7 +1858,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -1894,7 +1894,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -1930,7 +1930,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -2182,7 +2182,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -2218,7 +2218,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -2254,7 +2254,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -2290,7 +2290,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -2542,7 +2542,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -2578,7 +2578,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -2614,7 +2614,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -2650,7 +2650,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -2902,7 +2902,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -2938,7 +2938,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -2974,7 +2974,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -3010,7 +3010,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
@@ -3262,7 +3262,7 @@
         "uniqueName": "Civic Balance",
         "uniques": [
             "[+1 Gold, +1 Production] [in all cities]",
-            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+25]% Production when constructing [All] wonders [in all cities]",
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
@@ -3298,7 +3298,7 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "+20% growth [in all cities]",
+            "[+20]% growth [in all cities]",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
@@ -3334,7 +3334,7 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "+20% [Science]",
+            "[+20]% [Science]",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
@@ -3370,7 +3370,7 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "+20% [Culture]",
+            "[+20]% [Culture]",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
