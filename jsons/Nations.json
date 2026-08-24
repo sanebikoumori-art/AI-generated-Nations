@@ -26,14 +26,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Aurelia Prime",
-            "Aurelia Haven",
-            "Aurelia Reach",
-            "Aurelia Gate",
-            "Aurelia Crown",
-            "Aurelia Ford",
-            "Aurelia Rise"
-        ]
+            "Luminara",
+            "Seraphine Vale",
+            "Crown of Aster",
+            "Velmora",
+            "Auricrest",
+            "Solmere",
+            "Dawnspire"
+        ],
+        "startIntroPart1": "Welcome, Queen Seraphine! Aurelia rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Aurelia with a gentle hand, Queen Seraphine; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Aurelia. I will answer with the storm that follows.",
+        "attacked": "You have wounded Aurelia. Now the whole realm will remember your name.",
+        "defeated": "Aurelia falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Queen Seraphine, keeper of Aurelia. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Aurelia.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Aurelia in good faith."
     },
     {
         "name": "Vardesh",
@@ -58,18 +66,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Vardesh Prime",
-            "Vardesh Haven",
-            "Vardesh Reach",
-            "Vardesh Gate",
-            "Vardesh Crown",
-            "Vardesh Ford",
-            "Vardesh Rise"
-        ]
+            "Rivenshade",
+            "Arvandor",
+            "Verdelune",
+            "Thalford",
+            "Greymere",
+            "Willowspire",
+            "Rivercrown"
+        ],
+        "startIntroPart1": "Welcome, Rajan Arvind. Vardesh stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Vardesh with discipline, Rajan Arvind; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Vardesh has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Vardesh. Hold your ground and face the answer.",
+        "defeated": "Vardesh is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Rajan Arvind, leader of Vardesh. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Vardesh.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Vardesh. Accept them, or propose something better."
     },
     {
         "name": "Qasira",
@@ -94,18 +110,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Qasira Prime",
-            "Qasira Haven",
-            "Qasira Reach",
-            "Qasira Gate",
-            "Qasira Crown",
-            "Qasira Ford",
-            "Qasira Rise"
-        ]
+            "Qasrath",
+            "Nadiq’s Bazaar",
+            "Silk Crescent",
+            "Marazim",
+            "Jade Souk",
+            "Pearl Gate",
+            "Saffron Port"
+        ],
+        "startIntroPart1": "Welcome, Sultan Nadiq. The libraries and observatories of Qasira await your questions, for knowledge here is both treasure and weapon. Guide Qasira, Sultan Nadiq; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Qasira to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Qasira was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Qasira, can fall.",
+        "introduction": "I am Sultan Nadiq, steward of Qasira. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Ceryth",
@@ -130,18 +154,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Ceryth Prime",
-            "Ceryth Haven",
-            "Ceryth Reach",
-            "Ceryth Gate",
-            "Ceryth Crown",
-            "Ceryth Ford",
-            "Ceryth Rise"
-        ]
+            "Ceryth",
+            "Thaleon’s Observatory",
+            "Aetherium",
+            "Lorehaven",
+            "Star Library",
+            "Cerythra",
+            "Astral Gate"
+        ],
+        "startIntroPart1": "Welcome, Archon Thaleon! The bells of Ceryth ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Ceryth, Archon Thaleon; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Ceryth and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Archon Thaleon. Ceryth shall not bow.",
+        "defeated": "My crown is broken, but Ceryth will remain a name worth remembering.",
+        "introduction": "I am Archon Thaleon, sovereign of Ceryth. You stand before our court.",
+        "neutralHello": "You have an audience with Archon Thaleon.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Ceryth offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Talassar",
@@ -170,14 +202,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Talassar Prime",
-            "Talassar Haven",
-            "Talassar Reach",
-            "Talassar Gate",
-            "Talassar Crown",
-            "Talassar Ford",
-            "Talassar Rise"
-        ]
+            "Talassar",
+            "Lyra’s Anchorage",
+            "Azurehaven",
+            "Tidefall",
+            "Coral Crown",
+            "Stormquay",
+            "Pearlspire"
+        ],
+        "startIntroPart1": "Welcome, Admiral Lyra Venn. The gates of Talassar are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Talassar prosper, Admiral Lyra Venn; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Talassar. So be it.",
+        "attacked": "You have broken the peace with Talassar; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Talassar are closed. May history judge the settlement fairly.",
+        "introduction": "I am Admiral Lyra Venn, ruler of Talassar. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Talassar that should leave both treasuries healthier."
     },
     {
         "name": "Eldara",
@@ -206,14 +246,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Eldara Prime",
-            "Eldara Haven",
-            "Eldara Reach",
-            "Eldara Gate",
-            "Eldara Crown",
-            "Eldara Ford",
-            "Eldara Rise"
-        ]
+            "Eldara",
+            "Maelis’ Sanctum",
+            "Moonwood",
+            "Elderglen",
+            "Silver Shrine",
+            "Rootspire",
+            "Sacred Vale"
+        ],
+        "startIntroPart1": "Welcome, High Queen Maelis. The standards of Eldara are raised, the armories are full, and the captains wait only for your order. Command Eldara, High Queen Maelis; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Eldara will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Eldara answer.",
+        "defeated": "We fought to the end. Eldara will not be forgotten by its soldiers.",
+        "introduction": "I am High Queen Maelis, commander of Eldara. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Eldara can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Sorevia",
@@ -238,18 +286,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Sorevia Prime",
-            "Sorevia Haven",
-            "Sorevia Reach",
-            "Sorevia Gate",
-            "Sorevia Crown",
-            "Sorevia Ford",
-            "Sorevia Rise"
-        ]
+            "Sorevia",
+            "Oren’s Concord",
+            "Twinspire",
+            "Harmonia",
+            "Sorevane",
+            "Unity Hall",
+            "Concordia"
+        ],
+        "startIntroPart1": "Welcome, Prince Oren. The seers of Sorevia claim the stars have marked your coming; now the old omens await your answer. Choose the path of Sorevia, Prince Oren; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Sorevia accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Sorevia. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Prince Oren, voice of Sorevia. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Kharadun",
@@ -278,14 +334,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Kharadun Prime",
-            "Kharadun Haven",
-            "Kharadun Reach",
-            "Kharadun Gate",
-            "Kharadun Crown",
-            "Kharadun Ford",
-            "Kharadun Rise"
-        ]
+            "Kharadun",
+            "Temur’s Bastion",
+            "Ironshore",
+            "Stormhold",
+            "Kharspire",
+            "Sea Fortress",
+            "Warrior’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Warlord Temur Khar. Kharadun has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Kharadun wisely, Warlord Temur Khar; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Kharadun? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Kharadun. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Kharadun to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Warlord Temur Khar of Kharadun. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Nemeris",
@@ -314,14 +378,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Nemeris Prime",
-            "Nemeris Haven",
-            "Nemeris Reach",
-            "Nemeris Gate",
-            "Nemeris Crown",
-            "Nemeris Ford",
-            "Nemeris Rise"
-        ]
+            "Nemeris",
+            "Ilyan’s Athenaeum",
+            "Green Archive",
+            "Nemerion",
+            "Grand Collegium",
+            "Sage’s Spire",
+            "Academy Gate"
+        ],
+        "startIntroPart1": "Welcome, Scholar Ilyan! Nemeris remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Nemeris higher, Scholar Ilyan; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Nemeris. We will teach you why our banners are feared.",
+        "attacked": "You strike Nemeris and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Nemeris, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Scholar Ilyan, ruler of Nemeris. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Nemeris. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Nemeris does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Veloria",
@@ -350,14 +422,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Veloria Prime",
-            "Veloria Haven",
-            "Veloria Reach",
-            "Veloria Gate",
-            "Veloria Crown",
-            "Veloria Ford",
-            "Veloria Rise"
-        ]
+            "Veloria",
+            "Valen’s Mercantile",
+            "Silkport",
+            "Goldhaven",
+            "Merchant’s Crown",
+            "Doge’s Quay",
+            "Velorian Reach"
+        ],
+        "startIntroPart1": "Welcome, Doge Valen! The hearths of Veloria burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Veloria, Doge Valen; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Veloria no choice. We will defend our home.",
+        "attacked": "You chose violence against Veloria. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Doge Valen of Veloria. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Iskandria",
@@ -386,14 +466,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Iskandria Prime",
-            "Iskandria Haven",
-            "Iskandria Reach",
-            "Iskandria Gate",
-            "Iskandria Crown",
-            "Iskandria Ford",
-            "Iskandria Rise"
-        ]
+            "Iskandor",
+            "Cyrene’s Rest",
+            "Pelorin",
+            "Sunvault",
+            "Aurex",
+            "Caldessa",
+            "High Meridian"
+        ],
+        "startIntroPart1": "Welcome, Queen Cyrene! Iskandria rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Iskandria with a gentle hand, Queen Cyrene; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Iskandria. I will answer with the storm that follows.",
+        "attacked": "You have wounded Iskandria. Now the whole realm will remember your name.",
+        "defeated": "Iskandria falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Queen Cyrene, keeper of Iskandria. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Iskandria.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Iskandria in good faith."
     },
     {
         "name": "Rathen",
@@ -418,18 +506,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Rathen Prime",
-            "Rathen Haven",
-            "Rathen Reach",
-            "Rathen Gate",
-            "Rathen Crown",
-            "Rathen Ford",
-            "Rathen Rise"
-        ]
+            "Rathgard",
+            "Corvenglen",
+            "Mournewater",
+            "Thornwash",
+            "Veymarsh",
+            "Stormford",
+            "Rathmere"
+        ],
+        "startIntroPart1": "Welcome, Marshal Corvin. Rathen stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Rathen with discipline, Marshal Corvin; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Rathen has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Rathen. Hold your ground and face the answer.",
+        "defeated": "Rathen is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Marshal Corvin, leader of Rathen. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Rathen.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Rathen. Accept them, or propose something better."
     },
     {
         "name": "Myrath",
@@ -454,18 +550,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Myrath Prime",
-            "Myrath Haven",
-            "Myrath Reach",
-            "Myrath Gate",
-            "Myrath Crown",
-            "Myrath Ford",
-            "Myrath Rise"
-        ]
+            "Myradis",
+            "Elira’s Arcade",
+            "Moon Bazaar",
+            "Rosemarket",
+            "Velmora Quay",
+            "Lantern Souk",
+            "Myrathra"
+        ],
+        "startIntroPart1": "Welcome, Priestess Elira. The libraries and observatories of Myrath await your questions, for knowledge here is both treasure and weapon. Guide Myrath, Priestess Elira; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Myrath to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Myrath was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Myrath, can fall.",
+        "introduction": "I am Priestess Elira, steward of Myrath. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Ostrava",
@@ -490,18 +594,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Ostrava Prime",
-            "Ostrava Haven",
-            "Ostrava Reach",
-            "Ostrava Gate",
-            "Ostrava Crown",
-            "Ostrava Ford",
-            "Ostrava Rise"
-        ]
+            "Ostrava",
+            "Davor’s Athenaeum",
+            "Iron Archive",
+            "Ostravian Reach",
+            "Scholar’s Rise",
+            "Blue Collegium",
+            "Dawn Academy"
+        ],
+        "startIntroPart1": "Welcome, King Davor! The bells of Ostrava ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Ostrava, King Davor; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Ostrava and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of King Davor. Ostrava shall not bow.",
+        "defeated": "My crown is broken, but Ostrava will remain a name worth remembering.",
+        "introduction": "I am King Davor, sovereign of Ostrava. You stand before our court.",
+        "neutralHello": "You have an audience with King Davor.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Ostrava offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Zoravia",
@@ -530,14 +642,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Zoravia Prime",
-            "Zoravia Haven",
-            "Zoravia Reach",
-            "Zoravia Gate",
-            "Zoravia Crown",
-            "Zoravia Ford",
-            "Zoravia Rise"
-        ]
+            "Zoravia",
+            "Zora’s Port",
+            "Emerald Anchorage",
+            "Wavecrest",
+            "Salt Crown",
+            "Stormhaven",
+            "Zoravene"
+        ],
+        "startIntroPart1": "Welcome, Empress Zora. The gates of Zoravia are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Zoravia prosper, Empress Zora; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Zoravia. So be it.",
+        "attacked": "You have broken the peace with Zoravia; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Zoravia are closed. May history judge the settlement fairly.",
+        "introduction": "I am Empress Zora, ruler of Zoravia. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Zoravia that should leave both treasuries healthier."
     },
     {
         "name": "Pelagos",
@@ -566,14 +686,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Pelagos Prime",
-            "Pelagos Haven",
-            "Pelagos Reach",
-            "Pelagos Gate",
-            "Pelagos Crown",
-            "Pelagos Ford",
-            "Pelagos Rise"
-        ]
+            "Pelagos",
+            "Nikos’ Basilica",
+            "Marble Sanctum",
+            "Pelagian Reach",
+            "Sun Chapel",
+            "Laurelspire",
+            "Holy Quay"
+        ],
+        "startIntroPart1": "Welcome, Basilius Nikos. The standards of Pelagos are raised, the armories are full, and the captains wait only for your order. Command Pelagos, Basilius Nikos; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Pelagos will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Pelagos answer.",
+        "defeated": "We fought to the end. Pelagos will not be forgotten by its soldiers.",
+        "introduction": "I am Basilius Nikos, commander of Pelagos. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Pelagos can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Arkenfall",
@@ -598,18 +726,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Arkenfall Prime",
-            "Arkenfall Haven",
-            "Arkenfall Reach",
-            "Arkenfall Gate",
-            "Arkenfall Crown",
-            "Arkenfall Ford",
-            "Arkenfall Rise"
-        ]
+            "Arkenfall",
+            "Hadrien’s Accord",
+            "Greyhaven",
+            "Arkenmere",
+            "Unity Keep",
+            "Fellowship Gate",
+            "Concord Reach"
+        ],
+        "startIntroPart1": "Welcome, Lord Hadrien. The seers of Arkenfall claim the stars have marked your coming; now the old omens await your answer. Choose the path of Arkenfall, Lord Hadrien; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Arkenfall accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Arkenfall. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Lord Hadrien, voice of Arkenfall. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Saphrene",
@@ -638,14 +774,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Saphrene Prime",
-            "Saphrene Haven",
-            "Saphrene Reach",
-            "Saphrene Gate",
-            "Saphrene Crown",
-            "Saphrene Ford",
-            "Saphrene Rise"
-        ]
+            "Saphrene",
+            "Mira’s Sea Wall",
+            "Ironquay",
+            "Stormspire",
+            "Safeborn",
+            "Admiral’s Gate",
+            "Steel Harbor"
+        ],
+        "startIntroPart1": "Welcome, Sovereign Mira. Saphrene has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Saphrene wisely, Sovereign Mira; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Saphrene? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Saphrene. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Saphrene to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Sovereign Mira of Saphrene. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Damaris",
@@ -674,14 +818,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Damaris Prime",
-            "Damaris Haven",
-            "Damaris Reach",
-            "Damaris Gate",
-            "Damaris Crown",
-            "Damaris Ford",
-            "Damaris Rise"
-        ]
+            "Damaris",
+            "Althea’s College",
+            "Rose Archive",
+            "Damarion",
+            "Grand Lyceum",
+            "Queen’s Academy",
+            "Scholar’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Althea! Damaris remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Damaris higher, Queen Althea; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Damaris. We will teach you why our banners are feared.",
+        "attacked": "You strike Damaris and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Damaris, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Queen Althea, ruler of Damaris. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Damaris. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Damaris does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Korinthar",
@@ -710,14 +862,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Korinthar Prime",
-            "Korinthar Haven",
-            "Korinthar Reach",
-            "Korinthar Gate",
-            "Korinthar Crown",
-            "Korinthar Ford",
-            "Korinthar Rise"
-        ]
+            "Korinthar",
+            "Varek’s Exchange",
+            "Bronze Market",
+            "Korinthos",
+            "Strategos’ Quay",
+            "Merchantspire",
+            "War Trader’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Strategos Varek! The hearths of Korinthar burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Korinthar, Strategos Varek; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Korinthar no choice. We will defend our home.",
+        "attacked": "You chose violence against Korinthar. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Strategos Varek of Korinthar. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Nayara",
@@ -746,14 +906,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Nayara Prime",
-            "Nayara Haven",
-            "Nayara Reach",
-            "Nayara Gate",
-            "Nayara Crown",
-            "Nayara Ford",
-            "Nayara Rise"
-        ]
+            "Nayareth",
+            "Afiya’s Gate",
+            "Mirazan",
+            "Crownfall",
+            "Saffron Reach",
+            "Zahrel",
+            "Dawnmarket"
+        ],
+        "startIntroPart1": "Welcome, Sultana Afiya! Nayara rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Nayara with a gentle hand, Sultana Afiya; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Nayara. I will answer with the storm that follows.",
+        "attacked": "You have wounded Nayara. Now the whole realm will remember your name.",
+        "defeated": "Nayara falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Sultana Afiya, keeper of Nayara. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Nayara.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Nayara in good faith."
     },
     {
         "name": "Belvar",
@@ -778,18 +946,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Belvar Prime",
-            "Belvar Haven",
-            "Belvar Reach",
-            "Belvar Gate",
-            "Belvar Crown",
-            "Belvar Ford",
-            "Belvar Rise"
-        ]
+            "Belwyn",
+            "Rovenspire",
+            "Elderwash",
+            "Mistral Ford",
+            "Willowmarch",
+            "Belcourt",
+            "Riverwatch"
+        ],
+        "startIntroPart1": "Welcome, Grand Duke Rovan. Belvar stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Belvar with discipline, Grand Duke Rovan; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Belvar has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Belvar. Hold your ground and face the answer.",
+        "defeated": "Belvar is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Grand Duke Rovan, leader of Belvar. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Belvar.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Belvar. Accept them, or propose something better."
     },
     {
         "name": "Ephyria",
@@ -814,18 +990,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Ephyria Prime",
-            "Ephyria Haven",
-            "Ephyria Reach",
-            "Ephyria Gate",
-            "Ephyria Crown",
-            "Ephyria Ford",
-            "Ephyria Rise"
-        ]
+            "Ephyria",
+            "Selene’s Exchange",
+            "Oracles’ Row",
+            "Silver Bazaar",
+            "Ephyr Reach",
+            "Moonquay",
+            "Star Market"
+        ],
+        "startIntroPart1": "Welcome, Oracle Selene. The libraries and observatories of Ephyria await your questions, for knowledge here is both treasure and weapon. Guide Ephyria, Oracle Selene; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Ephyria to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Ephyria was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Ephyria, can fall.",
+        "introduction": "I am Oracle Selene, steward of Ephyria. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Thessara",
@@ -850,18 +1034,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Thessara Prime",
-            "Thessara Haven",
-            "Thessara Reach",
-            "Thessara Gate",
-            "Thessara Crown",
-            "Thessara Ford",
-            "Thessara Rise"
-        ]
+            "Thessara",
+            "Ione’s Lyceum",
+            "Silver Athenaeum",
+            "Thessarion",
+            "Oracle’s Stair",
+            "Laurel Quay",
+            "Philosopher’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Basiltessa Ione! The bells of Thessara ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Thessara, Basiltessa Ione; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Thessara and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Basiltessa Ione. Thessara shall not bow.",
+        "defeated": "My crown is broken, but Thessara will remain a name worth remembering.",
+        "introduction": "I am Basiltessa Ione, sovereign of Thessara. You stand before our court.",
+        "neutralHello": "You have an audience with Basiltessa Ione.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Thessara offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Marovia",
@@ -890,14 +1082,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Marovia Prime",
-            "Marovia Haven",
-            "Marovia Reach",
-            "Marovia Gate",
-            "Marovia Crown",
-            "Marovia Ford",
-            "Marovia Rise"
-        ]
+            "Marovia",
+            "Stellan’s Quay",
+            "Roseharbor",
+            "Mistport",
+            "Marovale",
+            "Tidegate",
+            "Sea Crown"
+        ],
+        "startIntroPart1": "Welcome, King Stellan. The gates of Marovia are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Marovia prosper, King Stellan; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Marovia. So be it.",
+        "attacked": "You have broken the peace with Marovia; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Marovia are closed. May history judge the settlement fairly.",
+        "introduction": "I am King Stellan, ruler of Marovia. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Marovia that should leave both treasuries healthier."
     },
     {
         "name": "Qadarin",
@@ -926,14 +1126,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Qadarin Prime",
-            "Qadarin Haven",
-            "Qadarin Reach",
-            "Qadarin Gate",
-            "Qadarin Crown",
-            "Qadarin Ford",
-            "Qadarin Rise"
-        ]
+            "Qadarin",
+            "Farid’s Shrine",
+            "Sandsong",
+            "Golden Sanctum",
+            "Qadarim",
+            "Moon Mosque",
+            "Blessed Gate"
+        ],
+        "startIntroPart1": "Welcome, Emir Farid. The standards of Qadarin are raised, the armories are full, and the captains wait only for your order. Command Qadarin, Emir Farid; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Qadarin will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Qadarin answer.",
+        "defeated": "We fought to the end. Qadarin will not be forgotten by its soldiers.",
+        "introduction": "I am Emir Farid, commander of Qadarin. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Qadarin can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Luthene",
@@ -958,18 +1166,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Luthene Prime",
-            "Luthene Haven",
-            "Luthene Reach",
-            "Luthene Gate",
-            "Luthene Crown",
-            "Luthene Ford",
-            "Luthene Rise"
-        ]
+            "Luthene",
+            "Orielle’s Assembly",
+            "Rosehall",
+            "Luthenor",
+            "Silver Concord",
+            "Crown of Voices",
+            "United Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Orielle. The seers of Luthene claim the stars have marked your coming; now the old omens await your answer. Choose the path of Luthene, Queen Orielle; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Luthene accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Luthene. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Queen Orielle, voice of Luthene. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Karthis",
@@ -998,14 +1214,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Karthis Prime",
-            "Karthis Haven",
-            "Karthis Reach",
-            "Karthis Gate",
-            "Karthis Crown",
-            "Karthis Ford",
-            "Karthis Rise"
-        ]
+            "Karthis",
+            "Veyra’s Bulwark",
+            "Blackwater Fort",
+            "Karthspire",
+            "Ironmist",
+            "General’s Watch",
+            "War Gate"
+        ],
+        "startIntroPart1": "Welcome, General Veyra. Karthis has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Karthis wisely, General Veyra; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Karthis? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Karthis. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Karthis to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am General Veyra of Karthis. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Samyra",
@@ -1034,14 +1258,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Samyra Prime",
-            "Samyra Haven",
-            "Samyra Reach",
-            "Samyra Gate",
-            "Samyra Crown",
-            "Samyra Ford",
-            "Samyra Rise"
-        ]
+            "Samyra",
+            "Samir’s Collegium",
+            "Amber Archive",
+            "Samyrion",
+            "Grand Academy",
+            "Sage’s Crown",
+            "Inkspire"
+        ],
+        "startIntroPart1": "Welcome, Sage Samir! Samyra remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Samyra higher, Sage Samir; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Samyra. We will teach you why our banners are feared.",
+        "attacked": "You strike Samyra and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Samyra, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Sage Samir, ruler of Samyra. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Samyra. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Samyra does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Orvannis",
@@ -1070,14 +1302,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Orvannis Prime",
-            "Orvannis Haven",
-            "Orvannis Reach",
-            "Orvannis Gate",
-            "Orvannis Crown",
-            "Orvannis Ford",
-            "Orvannis Rise"
-        ]
+            "Orvannis",
+            "Elian’s Bazaar",
+            "Violet Quay",
+            "Orvanis",
+            "Doge’s Market",
+            "Merchant’s Crown",
+            "Silk Gate"
+        ],
+        "startIntroPart1": "Welcome, Dogesza Elian! The hearths of Orvannis burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Orvannis, Dogesza Elian; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Orvannis no choice. We will defend our home.",
+        "attacked": "You chose violence against Orvannis. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Dogesza Elian of Orvannis. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Eryndor",
@@ -1106,14 +1346,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Eryndor Prime",
-            "Eryndor Haven",
-            "Eryndor Reach",
-            "Eryndor Gate",
-            "Eryndor Crown",
-            "Eryndor Ford",
-            "Eryndor Rise"
-        ]
+            "Eryndor",
+            "Aeron’s Watch",
+            "Silverweald",
+            "Starhold",
+            "Elarion",
+            "Crownmere",
+            "Valebright"
+        ],
+        "startIntroPart1": "Welcome, High King Aeron! Eryndor rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Eryndor with a gentle hand, High King Aeron; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Eryndor. I will answer with the storm that follows.",
+        "attacked": "You have wounded Eryndor. Now the whole realm will remember your name.",
+        "defeated": "Eryndor falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am High King Aeron, keeper of Eryndor. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Eryndor.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Eryndor in good faith."
     },
     {
         "name": "Velskar",
@@ -1138,18 +1386,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Velskar Prime",
-            "Velskar Haven",
-            "Velskar Reach",
-            "Velskar Gate",
-            "Velskar Crown",
-            "Velskar Ford",
-            "Velskar Rise"
-        ]
+            "Velskarya",
+            "Velkan’s Ford",
+            "Kharwater",
+            "Greenmarch",
+            "Stoneweir",
+            "Riverfall",
+            "Khan’s Reach"
+        ],
+        "startIntroPart1": "Welcome, Khan Velkan. Velskar stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Velskar with discipline, Khan Velkan; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Velskar has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Velskar. Hold your ground and face the answer.",
+        "defeated": "Velskar is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Khan Velkan, leader of Velskar. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Velskar.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Velskar. Accept them, or propose something better."
     },
     {
         "name": "Cassara",
@@ -1174,18 +1430,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Cassara Prime",
-            "Cassara Haven",
-            "Cassara Reach",
-            "Cassara Gate",
-            "Cassara Crown",
-            "Cassara Ford",
-            "Cassara Rise"
-        ]
+            "Cassara",
+            "Cassia’s Forum",
+            "Golden Arcade",
+            "Marble Quay",
+            "Silvershade",
+            "Cassaran Gate",
+            "Grand Exchange"
+        ],
+        "startIntroPart1": "Welcome, Lady Cassia. The libraries and observatories of Cassara await your questions, for knowledge here is both treasure and weapon. Guide Cassara, Lady Cassia; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Cassara to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Cassara was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Cassara, can fall.",
+        "introduction": "I am Lady Cassia, steward of Cassara. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Neravia",
@@ -1210,18 +1474,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Neravia Prime",
-            "Neravia Haven",
-            "Neravia Reach",
-            "Neravia Gate",
-            "Neravia Crown",
-            "Neravia Ford",
-            "Neravia Rise"
-        ]
+            "Neravia",
+            "Nadya’s Observatory",
+            "Frost Library",
+            "Neravik",
+            "Starvault",
+            "Tsar’s Academy",
+            "Aurora Hall"
+        ],
+        "startIntroPart1": "Welcome, Tsar Nadya! The bells of Neravia ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Neravia, Tsar Nadya; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Neravia and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Tsar Nadya. Neravia shall not bow.",
+        "defeated": "My crown is broken, but Neravia will remain a name worth remembering.",
+        "introduction": "I am Tsar Nadya, sovereign of Neravia. You stand before our court.",
+        "neutralHello": "You have an audience with Tsar Nadya.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Neravia offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Azrane",
@@ -1250,14 +1522,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Azrane Prime",
-            "Azrane Haven",
-            "Azrane Reach",
-            "Azrane Gate",
-            "Azrane Crown",
-            "Azrane Ford",
-            "Azrane Rise"
-        ]
+            "Azrane",
+            "Azim’s Haven",
+            "Saffronport",
+            "Dawn Anchorage",
+            "Pearl Reach",
+            "Azranor",
+            "Tidecourt"
+        ],
+        "startIntroPart1": "Welcome, Vizier Azim. The gates of Azrane are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Azrane prosper, Vizier Azim; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Azrane. So be it.",
+        "attacked": "You have broken the peace with Azrane; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Azrane are closed. May history judge the settlement fairly.",
+        "introduction": "I am Vizier Azim, ruler of Azrane. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Azrane that should leave both treasuries healthier."
     },
     {
         "name": "Feyrun",
@@ -1286,14 +1566,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Feyrun Prime",
-            "Feyrun Haven",
-            "Feyrun Reach",
-            "Feyrun Gate",
-            "Feyrun Crown",
-            "Feyrun Ford",
-            "Feyrun Rise"
-        ]
+            "Feyrun",
+            "Feya’s Grove",
+            "Moonbloom",
+            "Feywood",
+            "Silver Sanctum",
+            "Dawnshrine",
+            "Whispering Vale"
+        ],
+        "startIntroPart1": "Welcome, Queen Feya. The standards of Feyrun are raised, the armories are full, and the captains wait only for your order. Command Feyrun, Queen Feya; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Feyrun will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Feyrun answer.",
+        "defeated": "We fought to the end. Feyrun will not be forgotten by its soldiers.",
+        "introduction": "I am Queen Feya, commander of Feyrun. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Feyrun can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Dravik",
@@ -1318,18 +1606,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Dravik Prime",
-            "Dravik Haven",
-            "Dravik Reach",
-            "Dravik Gate",
-            "Dravik Crown",
-            "Dravik Ford",
-            "Dravik Rise"
-        ]
+            "Dravik",
+            "Draven’s Moot",
+            "Frosthall",
+            "Dravengard",
+            "Wolf Concord",
+            "Jarl’s Assembly",
+            "Iron Moot"
+        ],
+        "startIntroPart1": "Welcome, Jarl Draven. The seers of Dravik claim the stars have marked your coming; now the old omens await your answer. Choose the path of Dravik, Jarl Draven; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Dravik accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Dravik. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Jarl Draven, voice of Dravik. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Orelia",
@@ -1358,14 +1654,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Orelia Prime",
-            "Orelia Haven",
-            "Orelia Reach",
-            "Orelia Gate",
-            "Orelia Crown",
-            "Orelia Ford",
-            "Orelia Rise"
-        ]
+            "Orelia",
+            "Orla’s Arsenal",
+            "Goldsteel",
+            "Orelian Bastion",
+            "Sunforged",
+            "Imperial Dock",
+            "Iron Gate"
+        ],
+        "startIntroPart1": "Welcome, Empress Orla. Orelia has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Orelia wisely, Empress Orla; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Orelia? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Orelia. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Orelia to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Empress Orla of Orelia. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Selvarin",
@@ -1394,14 +1698,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Selvarin Prime",
-            "Selvarin Haven",
-            "Selvarin Reach",
-            "Selvarin Gate",
-            "Selvarin Crown",
-            "Selvarin Ford",
-            "Selvarin Rise"
-        ]
+            "Selvarin",
+            "Selvar’s Institute",
+            "Green Archive",
+            "Selvarion",
+            "Duke’s College",
+            "Grand Observatory",
+            "Academy Gate"
+        ],
+        "startIntroPart1": "Welcome, Duke Selvar! Selvarin remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Selvarin higher, Duke Selvar; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Selvarin. We will teach you why our banners are feared.",
+        "attacked": "You strike Selvarin and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Selvarin, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Duke Selvar, ruler of Selvarin. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Selvarin. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Selvarin does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Tirash",
@@ -1430,14 +1742,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Tirash Prime",
-            "Tirash Haven",
-            "Tirash Reach",
-            "Tirash Gate",
-            "Tirash Crown",
-            "Tirash Ford",
-            "Tirash Rise"
-        ]
+            "Tirash",
+            "Tirad’s Exchange",
+            "Red Market",
+            "Tirashar",
+            "Commander’s Quay",
+            "Merchantspire",
+            "Iron Bazaar"
+        ],
+        "startIntroPart1": "Welcome, Commander Tirad! The hearths of Tirash burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Tirash, Commander Tirad; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Tirash no choice. We will defend our home.",
+        "attacked": "You chose violence against Tirash. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Commander Tirad of Tirash. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Mavrena",
@@ -1466,14 +1786,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Mavrena Prime",
-            "Mavrena Haven",
-            "Mavrena Reach",
-            "Mavrena Gate",
-            "Mavrena Crown",
-            "Mavrena Ford",
-            "Mavrena Rise"
-        ]
+            "Mavara",
+            "Mavra’s Hall",
+            "Bluehaven",
+            "Sunmere",
+            "Goldleaf",
+            "Asterwatch",
+            "Valencrest"
+        ],
+        "startIntroPart1": "Welcome, Queen Mavra! Mavrena rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Mavrena with a gentle hand, Queen Mavra; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Mavrena. I will answer with the storm that follows.",
+        "attacked": "You have wounded Mavrena. Now the whole realm will remember your name.",
+        "defeated": "Mavrena falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Queen Mavra, keeper of Mavrena. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Mavrena.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Mavrena in good faith."
     },
     {
         "name": "Asterra",
@@ -1498,18 +1826,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Asterra Prime",
-            "Asterra Haven",
-            "Asterra Reach",
-            "Asterra Gate",
-            "Asterra Crown",
-            "Asterra Ford",
-            "Asterra Rise"
-        ]
+            "Asterfall",
+            "Valewater",
+            "Moonriver",
+            "Larkford",
+            "Greenhaven",
+            "Mistmere",
+            "Asterreach"
+        ],
+        "startIntroPart1": "Welcome, Professor Astra Vale. Asterra stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Asterra with discipline, Professor Astra Vale; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Asterra has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Asterra. Hold your ground and face the answer.",
+        "defeated": "Asterra is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Professor Astra Vale, leader of Asterra. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Asterra.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Asterra. Accept them, or propose something better."
     },
     {
         "name": "Rovenna",
@@ -1534,18 +1870,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Rovenna Prime",
-            "Rovenna Haven",
-            "Rovenna Reach",
-            "Rovenna Gate",
-            "Rovenna Crown",
-            "Rovenna Ford",
-            "Rovenna Rise"
-        ]
+            "Rovenna",
+            "Rovena’s Market",
+            "Amethyst Quay",
+            "Velora Square",
+            "Rovenside",
+            "Blue Arcade",
+            "Duchess Gate"
+        ],
+        "startIntroPart1": "Welcome, Duchess Rovena. The libraries and observatories of Rovenna await your questions, for knowledge here is both treasure and weapon. Guide Rovenna, Duchess Rovena; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Rovenna to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Rovenna was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Rovenna, can fall.",
+        "introduction": "I am Duchess Rovena, steward of Rovenna. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Delyria",
@@ -1570,18 +1914,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Delyria Prime",
-            "Delyria Haven",
-            "Delyria Reach",
-            "Delyria Gate",
-            "Delyria Crown",
-            "Delyria Ford",
-            "Delyria Rise"
-        ]
+            "Rhenora",
+            "Rhea’s College",
+            "Amber Archive",
+            "Rhenaris",
+            "Scholar’s Haven",
+            "Rose Observatory",
+            "Quietus Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Delia! The bells of Delyria ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Delyria, Queen Delia; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Delyria and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Queen Delia. Delyria shall not bow.",
+        "defeated": "My crown is broken, but Delyria will remain a name worth remembering.",
+        "introduction": "I am Queen Delia, sovereign of Delyria. You stand before our court.",
+        "neutralHello": "You have an audience with Queen Delia.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Delyria offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Kessan",
@@ -1610,14 +1962,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Kessan Prime",
-            "Kessan Haven",
-            "Kessan Reach",
-            "Kessan Gate",
-            "Kessan Crown",
-            "Kessan Ford",
-            "Kessan Rise"
-        ]
+            "Kessan",
+            "Kessir’s Harbor",
+            "Bluewind",
+            "Saltwatch",
+            "Stormquay",
+            "Kessara",
+            "Wavefort"
+        ],
+        "startIntroPart1": "Welcome, Khan Kessir. The gates of Kessan are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Kessan prosper, Khan Kessir; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Kessan. So be it.",
+        "attacked": "You have broken the peace with Kessan; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Kessan are closed. May history judge the settlement fairly.",
+        "introduction": "I am Khan Kessir, ruler of Kessan. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Kessan that should leave both treasuries healthier."
     },
     {
         "name": "Uvarra",
@@ -1646,14 +2006,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Uvarra Prime",
-            "Uvarra Haven",
-            "Uvarra Reach",
-            "Uvarra Gate",
-            "Uvarra Crown",
-            "Uvarra Ford",
-            "Uvarra Rise"
-        ]
+            "Nisara",
+            "Nisar’s Sanctuary",
+            "Ivory Shrine",
+            "Nisaran Reach",
+            "Star Chapel",
+            "Blessed Court",
+            "Sacred Gate"
+        ],
+        "startIntroPart1": "Welcome, Matriarch Uvara. The standards of Uvarra are raised, the armories are full, and the captains wait only for your order. Command Uvarra, Matriarch Uvara; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Uvarra will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Uvarra answer.",
+        "defeated": "We fought to the end. Uvarra will not be forgotten by its soldiers.",
+        "introduction": "I am Matriarch Uvara, commander of Uvarra. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Uvarra can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Nymora",
@@ -1678,18 +2046,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Nymora Prime",
-            "Nymora Haven",
-            "Nymora Reach",
-            "Nymora Gate",
-            "Nymora Crown",
-            "Nymora Ford",
-            "Nymora Rise"
-        ]
+            "Nymora",
+            "Nymera’s Circle",
+            "Moonhall",
+            "Nymorian Reach",
+            "Seer’s Assembly",
+            "Star Concord",
+            "Dreamgate"
+        ],
+        "startIntroPart1": "Welcome, Seer Nymera. The seers of Nymora claim the stars have marked your coming; now the old omens await your answer. Choose the path of Nymora, Seer Nymera; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Nymora accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Nymora. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Seer Nymera, voice of Nymora. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Virelia",
@@ -1718,14 +2094,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Virelia Prime",
-            "Virelia Haven",
-            "Virelia Reach",
-            "Virelia Gate",
-            "Virelia Crown",
-            "Virelia Ford",
-            "Virelia Rise"
-        ]
+            "Elaris",
+            "Elian’s Citadel",
+            "Aether Bastion",
+            "Elarion",
+            "Scholar’s Fort",
+            "Stormwall",
+            "Ironspire"
+        ],
+        "startIntroPart1": "Welcome, Emperor Virel. Virelia has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Virelia wisely, Emperor Virel; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Virelia? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Virelia. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Virelia to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Emperor Virel of Virelia. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Sarneth",
@@ -1754,14 +2138,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Sarneth Prime",
-            "Sarneth Haven",
-            "Sarneth Reach",
-            "Sarneth Gate",
-            "Sarneth Crown",
-            "Sarneth Ford",
-            "Sarneth Rise"
-        ]
+            "Varenth",
+            "Vara’s Athenaeum",
+            "Silver Archive",
+            "Varenthia",
+            "Grand Collegium",
+            "Queen’s Hall",
+            "Scholar’s Gate"
+        ],
+        "startIntroPart1": "Welcome, King Sarn! Sarneth remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Sarneth higher, King Sarn; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Sarneth. We will teach you why our banners are feared.",
+        "attacked": "You strike Sarneth and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Sarneth, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am King Sarn, ruler of Sarneth. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Sarneth. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Sarneth does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Elvarra",
@@ -1790,14 +2182,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Elvarra Prime",
-            "Elvarra Haven",
-            "Elvarra Reach",
-            "Elvarra Gate",
-            "Elvarra Crown",
-            "Elvarra Ford",
-            "Elvarra Rise"
-        ]
+            "Elvarra",
+            "Elva’s Market",
+            "Gold Quay",
+            "Elvarion",
+            "Queen’s Exchange",
+            "Merchant’s Crown",
+            "Silk Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Elva! The hearths of Elvarra burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Elvarra, Queen Elva; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Elvarra no choice. We will defend our home.",
+        "attacked": "You chose violence against Elvarra. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Queen Elva of Elvarra. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Caelora",
@@ -1826,14 +2226,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Caelora Prime",
-            "Caelora Haven",
-            "Caelora Reach",
-            "Caelora Gate",
-            "Caelora Crown",
-            "Caelora Ford",
-            "Caelora Rise"
-        ]
+            "Caelora",
+            "Cael’s Lantern",
+            "Skyharbor",
+            "Lunaris",
+            "Silvergate",
+            "Auroral",
+            "Highcourt"
+        ],
+        "startIntroPart1": "Welcome, Archon Cael! Caelora rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Caelora with a gentle hand, Archon Cael; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Caelora. I will answer with the storm that follows.",
+        "attacked": "You have wounded Caelora. Now the whole realm will remember your name.",
+        "defeated": "Caelora falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Archon Cael, keeper of Caelora. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Caelora.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Caelora in good faith."
     },
     {
         "name": "Mordane",
@@ -1858,18 +2266,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Mordane Prime",
-            "Mordane Haven",
-            "Mordane Reach",
-            "Mordane Gate",
-            "Mordane Crown",
-            "Mordane Ford",
-            "Mordane Rise"
-        ]
+            "Mordara",
+            "Mordec’s Crossing",
+            "Thornriver",
+            "Blackwater",
+            "Ravenweir",
+            "Mordmere",
+            "Warlord’s Ford"
+        ],
+        "startIntroPart1": "Welcome, Warlord Mordec. Mordane stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Mordane with discipline, Warlord Mordec; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Mordane has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Mordane. Hold your ground and face the answer.",
+        "defeated": "Mordane is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Warlord Mordec, leader of Mordane. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Mordane.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Mordane. Accept them, or propose something better."
     },
     {
         "name": "Ilyria Nova",
@@ -1894,18 +2310,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "IlyriaNova Prime",
-            "IlyriaNova Haven",
-            "IlyriaNova Reach",
-            "IlyriaNova Gate",
-            "IlyriaNova Crown",
-            "IlyriaNova Ford",
-            "IlyriaNova Rise"
-        ]
+            "Ilyria",
+            "Ilena’s Exchange",
+            "Nova Quay",
+            "Crystal Market",
+            "Ilyrion",
+            "Starboard",
+            "Mercantile Crown"
+        ],
+        "startIntroPart1": "Welcome, Empress Ilena. The libraries and observatories of Ilyria Nova await your questions, for knowledge here is both treasure and weapon. Guide Ilyria Nova, Empress Ilena; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Ilyria Nova to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Ilyria Nova was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Ilyria Nova, can fall.",
+        "introduction": "I am Empress Ilena, steward of Ilyria Nova. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Rhenora",
@@ -1930,18 +2354,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Rhenora Prime",
-            "Rhenora Haven",
-            "Rhenora Reach",
-            "Rhenora Gate",
-            "Rhenora Crown",
-            "Rhenora Ford",
-            "Rhenora Rise"
-        ]
+            "Brisara",
+            "Brisa’s Athenaeum",
+            "Emerald Archive",
+            "Brisarion",
+            "Lark Academy",
+            "Dewfall",
+            "Sage’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Rhea! The bells of Rhenora ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Rhenora, Queen Rhea; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Rhenora and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Queen Rhea. Rhenora shall not bow.",
+        "defeated": "My crown is broken, but Rhenora will remain a name worth remembering.",
+        "introduction": "I am Queen Rhea, sovereign of Rhenora. You stand before our court.",
+        "neutralHello": "You have an audience with Queen Rhea.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Rhenora offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Valtessa",
@@ -1970,14 +2402,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Valtessa Prime",
-            "Valtessa Haven",
+            "Valtessa",
+            "Valtero’s Quay",
+            "Verdant Port",
+            "Seaglass",
+            "Tidecourt",
             "Valtessa Reach",
-            "Valtessa Gate",
-            "Valtessa Crown",
-            "Valtessa Ford",
-            "Valtessa Rise"
-        ]
+            "Pearl Gate"
+        ],
+        "startIntroPart1": "Welcome, Doge Valtero. The gates of Valtessa are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Valtessa prosper, Doge Valtero; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Valtessa. So be it.",
+        "attacked": "You have broken the peace with Valtessa; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Valtessa are closed. May history judge the settlement fairly.",
+        "introduction": "I am Doge Valtero, ruler of Valtessa. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Valtessa that should leave both treasuries healthier."
     },
     {
         "name": "Nisara",
@@ -2006,14 +2446,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Nisara Prime",
-            "Nisara Haven",
-            "Nisara Reach",
-            "Nisara Gate",
-            "Nisara Crown",
-            "Nisara Ford",
-            "Nisara Rise"
-        ]
+            "Ophira",
+            "Ophir’s Temple",
+            "Sunvault",
+            "Ophirion",
+            "Golden Shrine",
+            "Prophet’s Rest",
+            "Holy Crown"
+        ],
+        "startIntroPart1": "Welcome, Sultan Nisar. The standards of Nisara are raised, the armories are full, and the captains wait only for your order. Command Nisara, Sultan Nisar; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Nisara will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Nisara answer.",
+        "defeated": "We fought to the end. Nisara will not be forgotten by its soldiers.",
+        "introduction": "I am Sultan Nisar, commander of Nisara. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Nisara can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Orinth",
@@ -2038,18 +2486,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Orinth Prime",
-            "Orinth Haven",
-            "Orinth Reach",
-            "Orinth Gate",
-            "Orinth Crown",
-            "Orinth Ford",
-            "Orinth Rise"
-        ]
+            "Zelvara",
+            "Zel’s Accord",
+            "Amethyst Hall",
+            "Zelvaris",
+            "Imperial Moot",
+            "Unity Crown",
+            "Star Assembly"
+        ],
+        "startIntroPart1": "Welcome, Strategos Orin. The seers of Orinth claim the stars have marked your coming; now the old omens await your answer. Choose the path of Orinth, Strategos Orin; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Orinth accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Orinth. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Strategos Orin, voice of Orinth. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Elaris",
@@ -2078,14 +2534,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Elaris Prime",
-            "Elaris Haven",
-            "Elaris Reach",
-            "Elaris Gate",
-            "Elaris Crown",
-            "Elaris Ford",
-            "Elaris Rise"
-        ]
+            "Ghalira",
+            "Ghali’s Rampart",
+            "Sea Bastion",
+            "Ghaliran Reach",
+            "Iron Quay",
+            "Emir’s Watch",
+            "Stormgate"
+        ],
+        "startIntroPart1": "Welcome, Scholar Elian. Elaris has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Elaris wisely, Scholar Elian; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Elaris? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Elaris. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Elaris to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Scholar Elian of Elaris. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Varenth",
@@ -2114,14 +2578,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Varenth Prime",
-            "Varenth Haven",
-            "Varenth Reach",
-            "Varenth Gate",
-            "Varenth Crown",
-            "Varenth Ford",
-            "Varenth Rise"
-        ]
+            "Ravessa",
+            "Raves’ Academy",
+            "Jade Archive",
+            "Ravessia",
+            "Grand Institute",
+            "Marshal’s College",
+            "Knowledge Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Vara! Varenth remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Varenth higher, Queen Vara; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Varenth. We will teach you why our banners are feared.",
+        "attacked": "You strike Varenth and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Varenth, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Queen Vara, ruler of Varenth. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Varenth. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Varenth does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Sorellia",
@@ -2150,14 +2622,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Sorellia Prime",
-            "Sorellia Haven",
-            "Sorellia Reach",
-            "Sorellia Gate",
-            "Sorellia Crown",
-            "Sorellia Ford",
-            "Sorellia Rise"
-        ]
+            "Sorellia",
+            "Sora’s Bazaar",
+            "Amethyst Market",
+            "Sorellon",
+            "Princess’ Quay",
+            "Merchantspire",
+            "Rose Exchange"
+        ],
+        "startIntroPart1": "Welcome, Princess Sora! The hearths of Sorellia burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Sorellia, Princess Sora; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Sorellia no choice. We will defend our home.",
+        "attacked": "You chose violence against Sorellia. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Princess Sora of Sorellia. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Khazara",
@@ -2186,14 +2666,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Khazara Prime",
-            "Khazara Haven",
-            "Khazara Reach",
-            "Khazara Gate",
-            "Khazara Crown",
-            "Khazara Ford",
-            "Khazara Rise"
-        ]
+            "Jorvane",
+            "Jorvan’s Keep",
+            "Verdant Crown",
+            "Glenmarch",
+            "Starfen",
+            "Roseward",
+            "Brightmere"
+        ],
+        "startIntroPart1": "Welcome, Khan Khazar! Khazara rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Khazara with a gentle hand, Khan Khazar; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Khazara. I will answer with the storm that follows.",
+        "attacked": "You have wounded Khazara. Now the whole realm will remember your name.",
+        "defeated": "Khazara falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Khan Khazar, keeper of Khazara. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Khazara.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Khazara in good faith."
     },
     {
         "name": "Meridia",
@@ -2218,18 +2706,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Meridia Prime",
-            "Meridia Haven",
-            "Meridia Reach",
-            "Meridia Gate",
-            "Meridia Crown",
-            "Meridia Ford",
-            "Meridia Rise"
-        ]
+            "Kelmora",
+            "Kelma’s Rest",
+            "Reedspire",
+            "Silverfen",
+            "Greenwater",
+            "Kelmere",
+            "Willow Crown"
+        ],
+        "startIntroPart1": "Welcome, Empress Merid. Meridia stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Meridia with discipline, Empress Merid; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Meridia has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Meridia. Hold your ground and face the answer.",
+        "defeated": "Meridia is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Empress Merid, leader of Meridia. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Meridia.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Meridia. Accept them, or propose something better."
     },
     {
         "name": "Avenor",
@@ -2254,18 +2750,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Avenor Prime",
-            "Avenor Haven",
-            "Avenor Reach",
-            "Avenor Gate",
-            "Avenor Crown",
-            "Avenor Ford",
-            "Avenor Rise"
-        ]
+            "Faronis",
+            "Faro’s Exchange",
+            "Garnet Quay",
+            "Ironmarket",
+            "Farona",
+            "Spice Gate",
+            "Red Bazaar"
+        ],
+        "startIntroPart1": "Welcome, King Aven. The libraries and observatories of Avenor await your questions, for knowledge here is both treasure and weapon. Guide Avenor, King Aven; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Avenor to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Avenor was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Avenor, can fall.",
+        "introduction": "I am King Aven, steward of Avenor. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Brisara",
@@ -2290,18 +2794,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Brisara Prime",
-            "Brisara Haven",
-            "Brisara Reach",
-            "Brisara Gate",
-            "Brisara Crown",
-            "Brisara Ford",
-            "Brisara Rise"
-        ]
+            "Glyndor",
+            "Glynn’s Academy",
+            "Sun Archive",
+            "Glyndria",
+            "Scholar’s Crown",
+            "Amber Hall",
+            "Golden Observatory"
+        ],
+        "startIntroPart1": "Welcome, Queen Brisa! The bells of Brisara ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Brisara, Queen Brisa; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Brisara and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Queen Brisa. Brisara shall not bow.",
+        "defeated": "My crown is broken, but Brisara will remain a name worth remembering.",
+        "introduction": "I am Queen Brisa, sovereign of Brisara. You stand before our court.",
+        "neutralHello": "You have an audience with Queen Brisa.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Brisara offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Dorseth",
@@ -2330,14 +2842,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Dorseth Prime",
-            "Dorseth Haven",
-            "Dorseth Reach",
-            "Dorseth Gate",
-            "Dorseth Crown",
-            "Dorseth Ford",
-            "Dorseth Rise"
-        ]
+            "Xandria",
+            "Xandra’s Harbor",
+            "Silverwake",
+            "Coral Reach",
+            "Moonquay",
+            "Xandros",
+            "Tide Crown"
+        ],
+        "startIntroPart1": "Welcome, Marshal Doric. The gates of Dorseth are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Dorseth prosper, Marshal Doric; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Dorseth. So be it.",
+        "attacked": "You have broken the peace with Dorseth; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Dorseth are closed. May history judge the settlement fairly.",
+        "introduction": "I am Marshal Doric, ruler of Dorseth. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Dorseth that should leave both treasuries healthier."
     },
     {
         "name": "Estenya",
@@ -2366,14 +2886,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Estenya Prime",
-            "Estenya Haven",
-            "Estenya Reach",
-            "Estenya Gate",
-            "Estenya Crown",
-            "Estenya Ford",
-            "Estenya Rise"
-        ]
+            "Iverna",
+            "Ivera’s Cloister",
+            "Deepwood",
+            "Ivernell",
+            "Moon Chapel",
+            "Silverleaf",
+            "Sacred Gate"
+        ],
+        "startIntroPart1": "Welcome, Regent Este. The standards of Estenya are raised, the armories are full, and the captains wait only for your order. Command Estenya, Regent Este; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Estenya will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Estenya answer.",
+        "defeated": "We fought to the end. Estenya will not be forgotten by its soldiers.",
+        "introduction": "I am Regent Este, commander of Estenya. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Estenya can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Faloria",
@@ -2398,18 +2926,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Faloria Prime",
-            "Faloria Haven",
-            "Faloria Reach",
-            "Faloria Gate",
-            "Faloria Crown",
-            "Faloria Ford",
-            "Faloria Rise"
-        ]
+            "Faloria",
+            "Falia’s Assembly",
+            "Sunhall",
+            "Falorian Reach",
+            "Concord Spire",
+            "Lady’s Court",
+            "Unity Gate"
+        ],
+        "startIntroPart1": "Welcome, Lady Falia. The seers of Faloria claim the stars have marked your coming; now the old omens await your answer. Choose the path of Faloria, Lady Falia; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Faloria accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Faloria. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Lady Falia, voice of Faloria. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Ghalira",
@@ -2438,14 +2974,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Ghalira Prime",
-            "Ghalira Haven",
-            "Ghalira Reach",
-            "Ghalira Gate",
-            "Ghalira Crown",
-            "Ghalira Ford",
-            "Ghalira Rise"
-        ]
+            "Quenaris",
+            "Quena’s Bulwark",
+            "Silver Fort",
+            "Quenaris Keep",
+            "Anchorhold",
+            "Queen’s Watch",
+            "Ironshore"
+        ],
+        "startIntroPart1": "Welcome, Emir Ghali. Ghalira has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Ghalira wisely, Emir Ghali; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Ghalira? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Ghalira. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Ghalira to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Emir Ghali of Ghalira. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Hesperis",
@@ -2474,14 +3018,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Hesperis Prime",
-            "Hesperis Haven",
-            "Hesperis Reach",
-            "Hesperis Gate",
-            "Hesperis Crown",
-            "Hesperis Ford",
-            "Hesperis Rise"
-        ]
+            "Hesperis",
+            "Hespera’s Lyceum",
+            "Rose Archive",
+            "Hesperion",
+            "Grand Academy",
+            "Queen’s Observatory",
+            "Scholar’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Hespera! Hesperis remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Hesperis higher, Queen Hespera; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Hesperis. We will teach you why our banners are feared.",
+        "attacked": "You strike Hesperis and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Hesperis, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Queen Hespera, ruler of Hesperis. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Hesperis. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Hesperis does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Ithara",
@@ -2510,14 +3062,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Ithara Prime",
-            "Ithara Haven",
-            "Ithara Reach",
-            "Ithara Gate",
-            "Ithara Crown",
-            "Ithara Ford",
-            "Ithara Rise"
-        ]
+            "Ithara",
+            "Ithar’s Exchange",
+            "Crimson Quay",
+            "Itharion",
+            "General’s Market",
+            "Merchant Crown",
+            "Steel Bazaar"
+        ],
+        "startIntroPart1": "Welcome, General Ithar! The hearths of Ithara burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Ithara, General Ithar; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Ithara no choice. We will defend our home.",
+        "attacked": "You chose violence against Ithara. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am General Ithar of Ithara. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Jorvane",
@@ -2546,14 +3106,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Jorvane Prime",
-            "Jorvane Haven",
-            "Jorvane Reach",
-            "Jorvane Gate",
-            "Jorvane Crown",
-            "Jorvane Ford",
-            "Jorvane Rise"
-        ]
+            "Khazarak",
+            "Khazar’s Seat",
+            "Ironmoon",
+            "Goldengate",
+            "Rider’s Rest",
+            "Khanspire",
+            "Velkhar"
+        ],
+        "startIntroPart1": "Welcome, King Jorvan! Jorvane rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Jorvane with a gentle hand, King Jorvan; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Jorvane. I will answer with the storm that follows.",
+        "attacked": "You have wounded Jorvane. Now the whole realm will remember your name.",
+        "defeated": "Jorvane falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am King Jorvan, keeper of Jorvane. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Jorvane.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Jorvane in good faith."
     },
     {
         "name": "Kelmora",
@@ -2578,18 +3146,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Kelmora Prime",
-            "Kelmora Haven",
-            "Kelmora Reach",
-            "Kelmora Gate",
-            "Kelmora Crown",
-            "Kelmora Ford",
-            "Kelmora Rise"
-        ]
+            "Meridion",
+            "Merid’s Crossing",
+            "Dawnriver",
+            "Mossgate",
+            "Sunfen",
+            "Riverlight",
+            "Meridia Vale"
+        ],
+        "startIntroPart1": "Welcome, Queen Kelma. Kelmora stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Kelmora with discipline, Queen Kelma; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Kelmora has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Kelmora. Hold your ground and face the answer.",
+        "defeated": "Kelmora is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Queen Kelma, leader of Kelmora. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Kelmora.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Kelmora. Accept them, or propose something better."
     },
     {
         "name": "Lyradis",
@@ -2614,18 +3190,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Lyradis Prime",
-            "Lyradis Haven",
-            "Lyradis Reach",
-            "Lyradis Gate",
-            "Lyradis Crown",
-            "Lyradis Ford",
-            "Lyradis Rise"
-        ]
+            "Avenor",
+            "Aven’s Forum",
+            "Silver Quay",
+            "Falcon Market",
+            "Avenreach",
+            "Gold Arcade",
+            "Merchant’s Crown"
+        ],
+        "startIntroPart1": "Welcome, Archon Lyra. The libraries and observatories of Lyradis await your questions, for knowledge here is both treasure and weapon. Guide Lyradis, Archon Lyra; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Lyradis to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Lyradis was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Lyradis, can fall.",
+        "introduction": "I am Archon Lyra, steward of Lyradis. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Merenza",
@@ -2650,18 +3234,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Merenza Prime",
-            "Merenza Haven",
-            "Merenza Reach",
-            "Merenza Gate",
-            "Merenza Crown",
-            "Merenza Ford",
-            "Merenza Rise"
-        ]
+            "Merenza",
+            "Meren’s Lyceum",
+            "Red Archive",
+            "Merenor",
+            "Doge’s College",
+            "Rose Observatory",
+            "Inkspire"
+        ],
+        "startIntroPart1": "Welcome, Doge Meren! The bells of Merenza ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Merenza, Doge Meren; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Merenza and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Doge Meren. Merenza shall not bow.",
+        "defeated": "My crown is broken, but Merenza will remain a name worth remembering.",
+        "introduction": "I am Doge Meren, sovereign of Merenza. You stand before our court.",
+        "neutralHello": "You have an audience with Doge Meren.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Merenza offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Navorra",
@@ -2690,14 +3282,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Navorra Prime",
-            "Navorra Haven",
-            "Navorra Reach",
-            "Navorra Gate",
-            "Navorra Crown",
-            "Navorra Ford",
-            "Navorra Rise"
-        ]
+            "Halcyra",
+            "Halcyne’s Anchorage",
+            "Sunset Port",
+            "Bluehaven",
+            "Pearlwind",
+            "Halcyron",
+            "Storm Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Navor. The gates of Navorra are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Navorra prosper, Queen Navor; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Navorra. So be it.",
+        "attacked": "You have broken the peace with Navorra; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Navorra are closed. May history judge the settlement fairly.",
+        "introduction": "I am Queen Navor, ruler of Navorra. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Navorra that should leave both treasuries healthier."
     },
     {
         "name": "Ophira",
@@ -2726,14 +3326,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Ophira Prime",
-            "Ophira Haven",
-            "Ophira Reach",
-            "Ophira Gate",
-            "Ophira Crown",
-            "Ophira Ford",
-            "Ophira Rise"
-        ]
+            "Yvarra",
+            "Yvar’s Shrine",
+            "Horsewind",
+            "Yvarra Reach",
+            "Sunstone Cloister",
+            "Khan’s Chapel",
+            "Blessed Steppe"
+        ],
+        "startIntroPart1": "Welcome, Sage Ophir. The standards of Ophira are raised, the armories are full, and the captains wait only for your order. Command Ophira, Sage Ophir; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Ophira will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Ophira answer.",
+        "defeated": "We fought to the end. Ophira will not be forgotten by its soldiers.",
+        "introduction": "I am Sage Ophir, commander of Ophira. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Ophira can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Paleron",
@@ -2758,18 +3366,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Paleron Prime",
-            "Paleron Haven",
-            "Paleron Reach",
-            "Paleron Gate",
-            "Paleron Crown",
-            "Paleron Ford",
-            "Paleron Rise"
-        ]
+            "Jalmera",
+            "Jal’s Accord",
+            "Palmhall",
+            "Jalmeris",
+            "Unity Bazaar",
+            "Emir’s Court",
+            "Concord Gate"
+        ],
+        "startIntroPart1": "Welcome, Duke Paler. The seers of Paleron claim the stars have marked your coming; now the old omens await your answer. Choose the path of Paleron, Duke Paler; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Paleron accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Paleron. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Duke Paler, voice of Paleron. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Quenaris",
@@ -2798,14 +3414,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Quenaris Prime",
-            "Quenaris Haven",
-            "Quenaris Reach",
-            "Quenaris Gate",
-            "Quenaris Crown",
-            "Quenaris Ford",
-            "Quenaris Rise"
-        ]
+            "Koriah",
+            "Kori’s Bastion",
+            "Greensteel",
+            "Koriahn Reach",
+            "Marshal’s Wall",
+            "Stormdock",
+            "Iron Crown"
+        ],
+        "startIntroPart1": "Welcome, Queen Quena. Quenaris has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Quenaris wisely, Queen Quena; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Quenaris? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Quenaris. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Quenaris to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Queen Quena of Quenaris. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Ravessa",
@@ -2834,14 +3458,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Ravessa Prime",
-            "Ravessa Haven",
-            "Ravessa Reach",
-            "Ravessa Gate",
-            "Ravessa Crown",
-            "Ravessa Ford",
-            "Ravessa Rise"
-        ]
+            "Lazuria",
+            "Lazur’s Collegium",
+            "Sapphire Archive",
+            "Lazurion",
+            "Grand Institute",
+            "Queen’s College",
+            "Knowledge Gate"
+        ],
+        "startIntroPart1": "Welcome, Marshal Raves! Ravessa remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Ravessa higher, Marshal Raves; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Ravessa. We will teach you why our banners are feared.",
+        "attacked": "You strike Ravessa and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Ravessa, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Marshal Raves, ruler of Ravessa. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Ravessa. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Ravessa does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Seldane",
@@ -2870,14 +3502,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Seldane Prime",
-            "Seldane Haven",
-            "Seldane Reach",
-            "Seldane Gate",
-            "Seldane Crown",
-            "Seldane Ford",
-            "Seldane Rise"
-        ]
+            "Caldorin",
+            "Caldor’s Forum",
+            "Azure Market",
+            "Caldorim",
+            "Scholar’s Exchange",
+            "Merchantspire",
+            "Iron Gate"
+        ],
+        "startIntroPart1": "Welcome, King Seldo! The hearths of Seldane burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Seldane, King Seldo; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Seldane no choice. We will defend our home.",
+        "attacked": "You chose violence against Seldane. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am King Seldo of Seldane. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Tavaria",
@@ -2906,14 +3546,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Tavaria Prime",
-            "Tavaria Haven",
-            "Tavaria Reach",
-            "Tavaria Gate",
-            "Tavaria Crown",
-            "Tavaria Ford",
-            "Tavaria Rise"
-        ]
+            "Tavarin",
+            "Tavia’s Crown",
+            "Redmere",
+            "Aurelith",
+            "Stormcourt",
+            "Rosehold",
+            "Cindergate"
+        ],
+        "startIntroPart1": "Welcome, Queen Tavia! Tavaria rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Tavaria with a gentle hand, Queen Tavia; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Tavaria. I will answer with the storm that follows.",
+        "attacked": "You have wounded Tavaria. Now the whole realm will remember your name.",
+        "defeated": "Tavaria falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Queen Tavia, keeper of Tavaria. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Tavaria.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Tavaria in good faith."
     },
     {
         "name": "Ulmaris",
@@ -2938,18 +3586,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Ulmaris Prime",
-            "Ulmaris Haven",
-            "Ulmaris Reach",
-            "Ulmaris Gate",
-            "Ulmaris Crown",
-            "Ulmaris Ford",
-            "Ulmaris Rise"
-        ]
+            "Ulmarin",
+            "Ulmar’s Ford",
+            "Brightwater",
+            "Goldriver",
+            "Marshspire",
+            "Ulmar’s Reach",
+            "Crownshall"
+        ],
+        "startIntroPart1": "Welcome, Emperor Ulmar. Ulmaris stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Ulmaris with discipline, Emperor Ulmar; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Ulmaris has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Ulmaris. Hold your ground and face the answer.",
+        "defeated": "Ulmaris is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Emperor Ulmar, leader of Ulmaris. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Ulmaris.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Ulmaris. Accept them, or propose something better."
     },
     {
         "name": "Vesperin",
@@ -2974,18 +3630,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Vesperin Prime",
-            "Vesperin Haven",
-            "Vesperin Reach",
-            "Vesperin Gate",
-            "Vesperin Crown",
-            "Vesperin Ford",
-            "Vesperin Rise"
-        ]
+            "Vesperin",
+            "Vespera’s Bazaar",
+            "Night Quay",
+            "Moonmarket",
+            "Vesparis",
+            "Indigo Gate",
+            "Dusk Exchange"
+        ],
+        "startIntroPart1": "Welcome, Queen Vespera. The libraries and observatories of Vesperin await your questions, for knowledge here is both treasure and weapon. Guide Vesperin, Queen Vespera; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Vesperin to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Vesperin was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Vesperin, can fall.",
+        "introduction": "I am Queen Vespera, steward of Vesperin. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Weylan",
@@ -3010,18 +3674,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Weylan Prime",
-            "Weylan Haven",
-            "Weylan Reach",
-            "Weylan Gate",
-            "Weylan Crown",
-            "Weylan Ford",
-            "Weylan Rise"
-        ]
+            "Weylan",
+            "Weyl’s Institute",
+            "Green Archive",
+            "Weyloria",
+            "Scholar’s Gate",
+            "Quiet Observatory",
+            "Logic Hall"
+        ],
+        "startIntroPart1": "Welcome, Lord Weyl! The bells of Weylan ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Weylan, Lord Weyl; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Weylan and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of Lord Weyl. Weylan shall not bow.",
+        "defeated": "My crown is broken, but Weylan will remain a name worth remembering.",
+        "introduction": "I am Lord Weyl, sovereign of Weylan. You stand before our court.",
+        "neutralHello": "You have an audience with Lord Weyl.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Weylan offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Xandria",
@@ -3050,14 +3722,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Xandria Prime",
-            "Xandria Haven",
-            "Xandria Reach",
-            "Xandria Gate",
-            "Xandria Crown",
-            "Xandria Ford",
-            "Xandria Rise"
-        ]
+            "Talassar",
+            "Lyra’s Anchorage",
+            "Azurehaven",
+            "Tidefall",
+            "Coral Crown",
+            "Stormquay",
+            "Pearlspire"
+        ],
+        "startIntroPart1": "Welcome, Queen Xandra. The gates of Xandria are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Xandria prosper, Queen Xandra; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Xandria. So be it.",
+        "attacked": "You have broken the peace with Xandria; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Xandria are closed. May history judge the settlement fairly.",
+        "introduction": "I am Queen Xandra, ruler of Xandria. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Xandria that should leave both treasuries healthier."
     },
     {
         "name": "Yvarra",
@@ -3086,14 +3766,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Yvarra Prime",
-            "Yvarra Haven",
-            "Yvarra Reach",
-            "Yvarra Gate",
-            "Yvarra Crown",
-            "Yvarra Ford",
-            "Yvarra Rise"
-        ]
+            "Paleron",
+            "Paler’s Basilica",
+            "Ivory Quay",
+            "Paleris",
+            "Crown Shrine",
+            "Marble Cloister",
+            "Hallowed Gate"
+        ],
+        "startIntroPart1": "Welcome, Khan Yvar. The standards of Yvarra are raised, the armories are full, and the captains wait only for your order. Command Yvarra, Khan Yvar; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Yvarra will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Yvarra answer.",
+        "defeated": "We fought to the end. Yvarra will not be forgotten by its soldiers.",
+        "introduction": "I am Khan Yvar, commander of Yvarra. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Yvarra can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Zelvara",
@@ -3118,18 +3806,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Zelvara Prime",
-            "Zelvara Haven",
-            "Zelvara Reach",
-            "Zelvara Gate",
-            "Zelvara Crown",
-            "Zelvara Ford",
-            "Zelvara Rise"
-        ]
+            "Orinth",
+            "Orin’s Moot",
+            "Stonehall",
+            "Orinthia",
+            "Strategos’ Assembly",
+            "Unity Keep",
+            "Concord Crown"
+        ],
+        "startIntroPart1": "Welcome, Empress Zel. The seers of Zelvara claim the stars have marked your coming; now the old omens await your answer. Choose the path of Zelvara, Empress Zel; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Zelvara accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Zelvara. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Empress Zel, voice of Zelvara. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Amareth",
@@ -3158,14 +3854,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Amareth Prime",
-            "Amareth Haven",
+            "Amareth",
+            "Ama’s Bulwark",
+            "Blue Bastion",
             "Amareth Reach",
-            "Amareth Gate",
-            "Amareth Crown",
-            "Amareth Ford",
-            "Amareth Rise"
-        ]
+            "Highwatch",
+            "Stormharbor",
+            "Iron Crown"
+        ],
+        "startIntroPart1": "Welcome, High Queen Ama. Amareth has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Amareth wisely, High Queen Ama; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Amareth? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Amareth. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Amareth to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am High Queen Ama of Amareth. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Bravena",
@@ -3194,14 +3898,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Bravena Prime",
-            "Bravena Haven",
-            "Bravena Reach",
-            "Bravena Gate",
-            "Bravena Crown",
-            "Bravena Ford",
-            "Bravena Rise"
-        ]
+            "Bravena",
+            "Braven’s Academy",
+            "Gold Archive",
+            "Bravenor",
+            "Grand College",
+            "Duke’s Observatory",
+            "Scholar’s Gate"
+        ],
+        "startIntroPart1": "Welcome, Duke Braven! Bravena remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Bravena higher, Duke Braven; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Bravena. We will teach you why our banners are feared.",
+        "attacked": "You strike Bravena and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Bravena, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Duke Braven, ruler of Bravena. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Bravena. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Bravena does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Caldorin",
@@ -3230,14 +3942,22 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Caldorin Prime",
-            "Caldorin Haven",
-            "Caldorin Reach",
-            "Caldorin Gate",
-            "Caldorin Crown",
-            "Caldorin Ford",
-            "Caldorin Rise"
-        ]
+            "Seldane",
+            "Seldo’s Bazaar",
+            "Violet Quay",
+            "Seldanor",
+            "King’s Exchange",
+            "Merchant Crown",
+            "Silk Gate"
+        ],
+        "startIntroPart1": "Welcome, Scholar Caldor! The hearths of Caldorin burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Caldorin, Scholar Caldor; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Caldorin no choice. We will defend our home.",
+        "attacked": "You chose violence against Caldorin. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am Scholar Caldor of Caldorin. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     },
     {
         "name": "Davenna",
@@ -3266,14 +3986,22 @@
             "[+1 Production] [in all cities] <after discovering [Engineering]>"
         ],
         "cities": [
-            "Davenna Prime",
-            "Davenna Haven",
-            "Davenna Reach",
-            "Davenna Gate",
-            "Davenna Crown",
-            "Davenna Ford",
-            "Davenna Rise"
-        ]
+            "Davenor",
+            "Davenna",
+            "Silvercourt",
+            "Greenwall",
+            "Duskford",
+            "Highmere",
+            "Jadekeep"
+        ],
+        "startIntroPart1": "Welcome, Queen Daven! Davenna rises beneath a sky of old legends, where every road has a song and every crown has a story. Lead Davenna with a gentle hand, Queen Daven; let its rivers, towers, and banners become a legend told for generations.",
+        "declaringWar": "You have cast a shadow over Davenna. I will answer with the storm that follows.",
+        "attacked": "You have wounded Davenna. Now the whole realm will remember your name.",
+        "defeated": "Davenna falls tonight, but its songs will outlive your victory.",
+        "introduction": "I am Queen Daven, keeper of Davenna. May this meeting begin a story worth telling.",
+        "neutralHello": "Welcome beneath the banners of Davenna.",
+        "hateHello": "Your presence darkens the hall.",
+        "tradeRequest": "Let us exchange more than words: I offer you a piece of Davenna in good faith."
     },
     {
         "name": "Esmara",
@@ -3298,18 +4026,26 @@
         "uniqueName": "River Thrones",
         "uniques": [
             "[+1 Food] [in all cities]",
-            "[+20]% growth [in all cities]",
+            "[+20]% growth [in all cities] <while the empire is happy>",
             "[+1 Food] [in all cities] <before discovering [Biology]>"
         ],
         "cities": [
-            "Esmara Prime",
-            "Esmara Haven",
-            "Esmara Reach",
-            "Esmara Gate",
-            "Esmara Crown",
-            "Esmara Ford",
-            "Esmara Rise"
-        ]
+            "Esmara",
+            "Esma’s Crossing",
+            "Jadewater",
+            "Palmford",
+            "Emerald Reach",
+            "Riverveil",
+            "Esmara Crown"
+        ],
+        "startIntroPart1": "Welcome, Sultana Esma. Esmara stands ready, forged by hard seasons and harder choices; its people await a ruler who does not flinch. Lead Esmara with discipline, Sultana Esma; history will remember whether you strengthened its walls or merely stood behind them.",
+        "declaringWar": "Esmara has no patience for your threat. Gather your armies.",
+        "attacked": "You attacked Esmara. Hold your ground and face the answer.",
+        "defeated": "Esmara is defeated. Remember that strength without vigilance is only borrowed time.",
+        "introduction": "I am Sultana Esma, leader of Esmara. Speak plainly and we will understand one another.",
+        "neutralHello": "You are received by Esmara.",
+        "hateHello": "Choose your words carefully.",
+        "tradeRequest": "I present terms from Esmara. Accept them, or propose something better."
     },
     {
         "name": "Faronis",
@@ -3334,18 +4070,26 @@
         "uniqueName": "Open Markets",
         "uniques": [
             "[+1 Science] [in all cities]",
-            "[+20]% [Science]",
+            "[+20]% [Science] <while the empire is happy>",
             "[+1 Science] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Faronis Prime",
-            "Faronis Haven",
-            "Faronis Reach",
-            "Faronis Gate",
-            "Faronis Crown",
-            "Faronis Ford",
-            "Faronis Rise"
-        ]
+            "Lazuria",
+            "Lazur’s Forum",
+            "Sapphire Quay",
+            "Blue Market",
+            "Lazurien",
+            "Glass Arcade",
+            "Queen’s Exchange"
+        ],
+        "startIntroPart1": "Welcome, General Faro. The libraries and observatories of Faronis await your questions, for knowledge here is both treasure and weapon. Guide Faronis, General Faro; let every discovery become a foundation for the next, until your rivals are studying your victories.",
+        "declaringWar": "You have forced Faronis to revise its calculations. War is the conclusion.",
+        "attacked": "Your attack on Faronis was noted, measured, and answered.",
+        "defeated": "Our final lesson is this: every empire, including Faronis, can fall.",
+        "introduction": "I am General Faro, steward of Faronis. What subject would you have us discuss?",
+        "neutralHello": "Greetings. What is on your mind?",
+        "hateHello": "Please present a matter worthy of my attention.",
+        "tradeRequest": "Consider this exchange carefully; knowledge and prosperity both favor reciprocity."
     },
     {
         "name": "Glyndor",
@@ -3370,18 +4114,26 @@
         "uniqueName": "Age of Inquiry",
         "uniques": [
             "[+1 Culture] [in all cities]",
-            "[+20]% [Culture]",
+            "[+20]% [Culture] <during a Golden Age>",
             "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
-            "Glyndor Prime",
-            "Glyndor Haven",
-            "Glyndor Reach",
-            "Glyndor Gate",
-            "Glyndor Crown",
-            "Glyndor Ford",
-            "Glyndor Rise"
-        ]
+            "Glyndor Vale",
+            "Aether Collegium",
+            "Silver Archive",
+            "Starglass",
+            "Theorist’s Haven",
+            "Golden Lyceum",
+            "Celestial Gate"
+        ],
+        "startIntroPart1": "Welcome, King Glynn! The bells of Glyndor ring for your arrival, and ancient courts lean close to hear what future you will command. Rule Glyndor, King Glynn; may your reign fill its halls with prosperity and its chronicles with deeds worthy of a crown.",
+        "declaringWar": "You have insulted Glyndor and its throne. Prepare to answer for it.",
+        "attacked": "You have drawn the wrath of King Glynn. Glyndor shall not bow.",
+        "defeated": "My crown is broken, but Glyndor will remain a name worth remembering.",
+        "introduction": "I am King Glynn, sovereign of Glyndor. You stand before our court.",
+        "neutralHello": "You have an audience with King Glynn.",
+        "hateHello": "Your audience grows shorter by the moment.",
+        "tradeRequest": "Glyndor offers these terms as a gesture of sovereign goodwill."
     },
     {
         "name": "Halcyra",
@@ -3410,14 +4162,22 @@
             "[+1 Gold] [in all cities] <after discovering [Currency]>"
         ],
         "cities": [
-            "Halcyra Prime",
-            "Halcyra Haven",
-            "Halcyra Reach",
-            "Halcyra Gate",
-            "Halcyra Crown",
-            "Halcyra Ford",
-            "Halcyra Rise"
-        ]
+            "Zoravia",
+            "Zora’s Port",
+            "Emerald Anchorage",
+            "Wavecrest",
+            "Salt Crown",
+            "Stormhaven",
+            "Zoravene"
+        ],
+        "startIntroPart1": "Welcome, Queen Halcyne. The gates of Halcyra are open, its ledgers balanced, and its caravans already waiting for your first decree. Make Halcyra prosper, Queen Halcyne; let every road, harbor, and bargain carry your influence farther than any army could.",
+        "declaringWar": "You have chosen the most expensive possible dispute with Halcyra. So be it.",
+        "attacked": "You have broken the peace with Halcyra; expect the bill to arrive with interest.",
+        "defeated": "The accounts of Halcyra are closed. May history judge the settlement fairly.",
+        "introduction": "I am Queen Halcyne, ruler of Halcyra. Let us see whether this meeting holds profit.",
+        "neutralHello": "Welcome. Let us see what fortune brings.",
+        "hateHello": "Is this another demand, or do you finally bring value?",
+        "tradeRequest": "I have an offer from Halcyra that should leave both treasuries healthier."
     },
     {
         "name": "Iverna",
@@ -3446,14 +4206,22 @@
             "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
         ],
         "cities": [
-            "Iverna Prime",
-            "Iverna Haven",
-            "Iverna Reach",
-            "Iverna Gate",
-            "Iverna Crown",
-            "Iverna Ford",
-            "Iverna Rise"
-        ]
+            "Estenya",
+            "Este’s Sanctuary",
+            "Quiet Grove",
+            "Estenor",
+            "Ivory Chapel",
+            "Regent’s Rest",
+            "Hallowed Crown"
+        ],
+        "startIntroPart1": "Welcome, Lady Ivera. The standards of Iverna are raised, the armories are full, and the captains wait only for your order. Command Iverna, Lady Ivera; steel and courage will open doors, but only a wise commander will know which doors to close.",
+        "declaringWar": "Enough. Iverna will meet your army on the field.",
+        "attacked": "So be it. Shields up, standards forward, and let Iverna answer.",
+        "defeated": "We fought to the end. Iverna will not be forgotten by its soldiers.",
+        "introduction": "I am Lady Ivera, commander of Iverna. State your intentions.",
+        "neutralHello": "You are received. Speak.",
+        "hateHello": "Say what you came to say.",
+        "tradeRequest": "Iverna can trade openly while we remain at peace. Here are my terms."
     },
     {
         "name": "Jalmera",
@@ -3478,18 +4246,26 @@
         "uniqueName": "Concord of Cities",
         "uniques": [
             "[+1 Faith] [in all cities]",
-            "[+20]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities] <during a Golden Age>",
             "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
         ],
         "cities": [
-            "Jalmera Prime",
-            "Jalmera Haven",
-            "Jalmera Reach",
-            "Jalmera Gate",
-            "Jalmera Crown",
-            "Jalmera Ford",
-            "Jalmera Rise"
-        ]
+            "Saphrene",
+            "Mira’s Concord",
+            "Glasshall",
+            "Saphrion",
+            "Sovereign’s Assembly",
+            "Blue Accord",
+            "Unity Harbor"
+        ],
+        "startIntroPart1": "Welcome, Emir Jal. The seers of Jalmera claim the stars have marked your coming; now the old omens await your answer. Choose the path of Jalmera, Emir Jal; the constellations offer possibilities, not promises, and the final omen will be yours to write.",
+        "declaringWar": "The omens have turned against you. Jalmera accepts the duel you have demanded.",
+        "attacked": "You have awakened what slept beneath Jalmera. Pray the old powers favor you.",
+        "defeated": "The final omen has been written. Guard your victory, for fate is never finished.",
+        "introduction": "I am Emir Jal, voice of Jalmera. The paths of fate have brought us together.",
+        "neutralHello": "The road has brought you here again.",
+        "hateHello": "The omens are not improved by your arrival.",
+        "tradeRequest": "The balance of fortune favors this exchange, at least for now."
     },
     {
         "name": "Koriah",
@@ -3518,14 +4294,22 @@
             "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
         ],
         "cities": [
-            "Koriah Prime",
-            "Koriah Haven",
-            "Koriah Reach",
-            "Koriah Gate",
-            "Koriah Crown",
-            "Koriah Ford",
-            "Koriah Rise"
-        ]
+            "Virelia",
+            "Virel’s Citadel",
+            "Sea Bastion",
+            "Virelion",
+            "Emperor’s Watch",
+            "Steel Quay",
+            "Iron Gate"
+        ],
+        "startIntroPart1": "Welcome, Marshal Kori. Koriah has survived kings, storms, fools, and prophets; surely it can survive one more ruler with ambition. Rule Koriah wisely, Marshal Kori; the gods may help, the neighbors may complain, and the historians will certainly exaggerate.",
+        "declaringWar": "You wanted a war with Koriah? Very well. I hope your treasury can afford it.",
+        "attacked": "An attack on Koriah. Bold choice. Questionable judgment.",
+        "defeated": "Well, that is an unpleasant way for Koriah to end. Enjoy your triumph while it lasts.",
+        "introduction": "I am Marshal Kori of Koriah. I assume you have come for something interesting.",
+        "neutralHello": "Back again? How unexpected.",
+        "hateHello": "Oh, it is you again.",
+        "tradeRequest": "I have a deal. It may even be less outrageous than you expect."
     },
     {
         "name": "Lazuria",
@@ -3554,14 +4338,22 @@
             "[+1 Happiness] [in all cities] <after discovering [Education]>"
         ],
         "cities": [
-            "Lazuria Prime",
-            "Lazuria Haven",
-            "Lazuria Reach",
-            "Lazuria Gate",
-            "Lazuria Crown",
-            "Lazuria Ford",
-            "Lazuria Rise"
-        ]
+            "Orvannis",
+            "Elian’s Hall",
+            "Violet Archive",
+            "Orvannor",
+            "Grand Exchange Academy",
+            "Doge’s College",
+            "Knowledge Gate"
+        ],
+        "startIntroPart1": "Welcome, Queen Lazur! Lazuria remembers its glories and expects new ones, for lesser destinies have never satisfied its people. Raise Lazuria higher, Queen Lazur; its banners deserve new victories, and its ancestors are said to be watching from the stars.",
+        "declaringWar": "You have challenged Lazuria. We will teach you why our banners are feared.",
+        "attacked": "You strike Lazuria and expect us to tremble? Watch carefully.",
+        "defeated": "You have conquered Lazuria, but you have not conquered what made us proud to be its people.",
+        "introduction": "I am Queen Lazur, ruler of Lazuria. Remember the name of the realm before you.",
+        "neutralHello": "You stand before Lazuria. Greetings.",
+        "hateHello": "I have little patience for your courtly games.",
+        "tradeRequest": "Lazuria does not bargain from weakness. Consider our offer carefully."
     },
     {
         "name": "Morvane",
@@ -3590,13 +4382,21 @@
             "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
         ],
         "cities": [
-            "Morvane Prime",
-            "Morvane Haven",
-            "Morvane Reach",
-            "Morvane Gate",
-            "Morvane Crown",
-            "Morvane Ford",
-            "Morvane Rise"
-        ]
+            "Morvane",
+            "Morven’s Market",
+            "Grey Quay",
+            "Morvanor",
+            "King’s Exchange",
+            "Merchantspire",
+            "Old Road Gate"
+        ],
+        "startIntroPart1": "Welcome, King Morven! The hearths of Morvane burn bright tonight, and its people greet you as the keeper of their hopes and future. Guard Morvane, King Morven; its people ask for little beyond safety, dignity, and a future they can proudly hand to their children.",
+        "declaringWar": "I wished for peace, but you have left Morvane no choice. We will defend our home.",
+        "attacked": "You chose violence against Morvane. We will protect our people from you.",
+        "defeated": "Our cities are lost, yet our people and our memories remain. Treat them with mercy.",
+        "introduction": "I am King Morven of Morvane. You are welcome here while peace endures.",
+        "neutralHello": "Welcome, friend. You may speak freely.",
+        "hateHello": "Let us keep this conversation civil.",
+        "tradeRequest": "Let us make a fair exchange and give our peoples one more reason for friendship."
     }
 ]
