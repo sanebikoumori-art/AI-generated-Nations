@@ -1,0 +1,1405 @@
+Tilesets_custom_units_v2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Units/Aurelia Guard
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Vardesh Ranger
+  rotate: false
+  xy: 72, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Qasira Lancer
+  rotate: false
+  xy: 140, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ceryth Riders
+  rotate: false
+  xy: 208, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Talassar Legion
+  rotate: false
+  xy: 276, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Eldara Marksmen
+  rotate: false
+  xy: 344, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sorevia Crossbow
+  rotate: false
+  xy: 412, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kharadun Cavalry
+  rotate: false
+  xy: 480, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nemeris Musketeers
+  rotate: false
+  xy: 548, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Veloria Rifles
+  rotate: false
+  xy: 616, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Iskandria Dragoons
+  rotate: false
+  xy: 4, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rathen Infantry
+  rotate: false
+  xy: 72, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Myrath Armored Guard
+  rotate: false
+  xy: 140, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ostrava Guard
+  rotate: false
+  xy: 208, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Zoravia Ranger
+  rotate: false
+  xy: 276, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pelagos Lancer
+  rotate: false
+  xy: 344, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Arkenfall Riders
+  rotate: false
+  xy: 412, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Saphrene Legion
+  rotate: false
+  xy: 480, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Damaris Marksmen
+  rotate: false
+  xy: 548, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Korinthar Crossbow
+  rotate: false
+  xy: 616, 64
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nayara Cavalry
+  rotate: false
+  xy: 4, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Belvar Musketeers
+  rotate: false
+  xy: 72, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ephyria Rifles
+  rotate: false
+  xy: 140, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Thessara Dragoons
+  rotate: false
+  xy: 208, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marovia Infantry
+  rotate: false
+  xy: 276, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Qadarin Armored Guard
+  rotate: false
+  xy: 344, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Luthene Guard
+  rotate: false
+  xy: 412, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Karthis Ranger
+  rotate: false
+  xy: 480, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Samyra Lancer
+  rotate: false
+  xy: 548, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Orvannis Riders
+  rotate: false
+  xy: 616, 124
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Eryndor Legion
+  rotate: false
+  xy: 4, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Velskar Marksmen
+  rotate: false
+  xy: 72, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cassara Crossbow
+  rotate: false
+  xy: 140, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Neravia Cavalry
+  rotate: false
+  xy: 208, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Azrane Musketeers
+  rotate: false
+  xy: 276, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Feyrun Rifles
+  rotate: false
+  xy: 344, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dravik Dragoons
+  rotate: false
+  xy: 412, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Orelia Infantry
+  rotate: false
+  xy: 480, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Selvarin Armored Guard
+  rotate: false
+  xy: 548, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tirash Guard
+  rotate: false
+  xy: 616, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mavrena Ranger
+  rotate: false
+  xy: 4, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Asterra Lancer
+  rotate: false
+  xy: 72, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rovenna Riders
+  rotate: false
+  xy: 140, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Delyria Legion
+  rotate: false
+  xy: 208, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kessan Marksmen
+  rotate: false
+  xy: 276, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Uvarra Crossbow
+  rotate: false
+  xy: 344, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nymora Cavalry
+  rotate: false
+  xy: 412, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Virelia Musketeers
+  rotate: false
+  xy: 480, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarneth Rifles
+  rotate: false
+  xy: 548, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elvarra Dragoons
+  rotate: false
+  xy: 616, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Caelora Infantry
+  rotate: false
+  xy: 4, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mordane Armored Guard
+  rotate: false
+  xy: 72, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ilyria Nova Guard
+  rotate: false
+  xy: 140, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rhenora Ranger
+  rotate: false
+  xy: 208, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Valtessa Lancer
+  rotate: false
+  xy: 276, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nisara Riders
+  rotate: false
+  xy: 344, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Orinth Legion
+  rotate: false
+  xy: 412, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elaris Marksmen
+  rotate: false
+  xy: 480, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Varenth Crossbow
+  rotate: false
+  xy: 548, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sorellia Cavalry
+  rotate: false
+  xy: 616, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Khazara Musketeers
+  rotate: false
+  xy: 4, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Meridia Rifles
+  rotate: false
+  xy: 72, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Avenor Dragoons
+  rotate: false
+  xy: 140, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Brisara Infantry
+  rotate: false
+  xy: 208, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dorseth Armored Guard
+  rotate: false
+  xy: 276, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Estenya Guard
+  rotate: false
+  xy: 344, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Faloria Ranger
+  rotate: false
+  xy: 412, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ghalira Lancer
+  rotate: false
+  xy: 480, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hesperis Riders
+  rotate: false
+  xy: 548, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ithara Legion
+  rotate: false
+  xy: 616, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jorvane Marksmen
+  rotate: false
+  xy: 4, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kelmora Crossbow
+  rotate: false
+  xy: 72, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lyradis Cavalry
+  rotate: false
+  xy: 140, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Merenza Musketeers
+  rotate: false
+  xy: 208, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Navorra Rifles
+  rotate: false
+  xy: 276, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ophira Dragoons
+  rotate: false
+  xy: 344, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Paleron Infantry
+  rotate: false
+  xy: 412, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Quenaris Armored Guard
+  rotate: false
+  xy: 480, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ravessa Guard
+  rotate: false
+  xy: 548, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Seldane Ranger
+  rotate: false
+  xy: 616, 424
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tavaria Lancer
+  rotate: false
+  xy: 4, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ulmaris Riders
+  rotate: false
+  xy: 72, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Vesperin Legion
+  rotate: false
+  xy: 140, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Weylan Marksmen
+  rotate: false
+  xy: 208, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Xandria Crossbow
+  rotate: false
+  xy: 276, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Yvarra Cavalry
+  rotate: false
+  xy: 344, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Zelvara Musketeers
+  rotate: false
+  xy: 412, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Amareth Rifles
+  rotate: false
+  xy: 480, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bravena Dragoons
+  rotate: false
+  xy: 548, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Caldorin Infantry
+  rotate: false
+  xy: 616, 484
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Davenna Armored Guard
+  rotate: false
+  xy: 4, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Esmara Guard
+  rotate: false
+  xy: 72, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Faronis Ranger
+  rotate: false
+  xy: 140, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Glyndor Lancer
+  rotate: false
+  xy: 208, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Halcyra Riders
+  rotate: false
+  xy: 276, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Iverna Legion
+  rotate: false
+  xy: 344, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jalmera Marksmen
+  rotate: false
+  xy: 412, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Koriah Crossbow
+  rotate: false
+  xy: 480, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lazuria Cavalry
+  rotate: false
+  xy: 548, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Morvane Musketeers
+  rotate: false
+  xy: 616, 544
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aurelia Guard
+  rotate: false
+  xy: 4, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vardesh Ranger
+  rotate: false
+  xy: 40, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Qasira Lancer
+  rotate: false
+  xy: 76, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ceryth Riders
+  rotate: false
+  xy: 112, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Talassar Legion
+  rotate: false
+  xy: 148, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eldara Marksmen
+  rotate: false
+  xy: 184, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sorevia Crossbow
+  rotate: false
+  xy: 220, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kharadun Cavalry
+  rotate: false
+  xy: 256, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nemeris Musketeers
+  rotate: false
+  xy: 292, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Veloria Rifles
+  rotate: false
+  xy: 328, 620
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Iskandria Dragoons
+  rotate: false
+  xy: 4, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rathen Infantry
+  rotate: false
+  xy: 40, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Myrath Armored Guard
+  rotate: false
+  xy: 76, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ostrava Guard
+  rotate: false
+  xy: 112, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zoravia Ranger
+  rotate: false
+  xy: 148, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pelagos Lancer
+  rotate: false
+  xy: 184, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Arkenfall Riders
+  rotate: false
+  xy: 220, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Saphrene Legion
+  rotate: false
+  xy: 256, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Damaris Marksmen
+  rotate: false
+  xy: 292, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Korinthar Crossbow
+  rotate: false
+  xy: 328, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nayara Cavalry
+  rotate: false
+  xy: 4, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Belvar Musketeers
+  rotate: false
+  xy: 40, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ephyria Rifles
+  rotate: false
+  xy: 76, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thessara Dragoons
+  rotate: false
+  xy: 112, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marovia Infantry
+  rotate: false
+  xy: 148, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Qadarin Armored Guard
+  rotate: false
+  xy: 184, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Luthene Guard
+  rotate: false
+  xy: 220, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Karthis Ranger
+  rotate: false
+  xy: 256, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Samyra Lancer
+  rotate: false
+  xy: 292, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orvannis Riders
+  rotate: false
+  xy: 328, 684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eryndor Legion
+  rotate: false
+  xy: 4, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Velskar Marksmen
+  rotate: false
+  xy: 40, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cassara Crossbow
+  rotate: false
+  xy: 76, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Neravia Cavalry
+  rotate: false
+  xy: 112, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Azrane Musketeers
+  rotate: false
+  xy: 148, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Feyrun Rifles
+  rotate: false
+  xy: 184, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dravik Dragoons
+  rotate: false
+  xy: 220, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orelia Infantry
+  rotate: false
+  xy: 256, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Selvarin Armored Guard
+  rotate: false
+  xy: 292, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tirash Guard
+  rotate: false
+  xy: 328, 716
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mavrena Ranger
+  rotate: false
+  xy: 4, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Asterra Lancer
+  rotate: false
+  xy: 40, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rovenna Riders
+  rotate: false
+  xy: 76, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Delyria Legion
+  rotate: false
+  xy: 112, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kessan Marksmen
+  rotate: false
+  xy: 148, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Uvarra Crossbow
+  rotate: false
+  xy: 184, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nymora Cavalry
+  rotate: false
+  xy: 220, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Virelia Musketeers
+  rotate: false
+  xy: 256, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarneth Rifles
+  rotate: false
+  xy: 292, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Elvarra Dragoons
+  rotate: false
+  xy: 328, 748
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Caelora Infantry
+  rotate: false
+  xy: 4, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mordane Armored Guard
+  rotate: false
+  xy: 40, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ilyria Nova Guard
+  rotate: false
+  xy: 76, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rhenora Ranger
+  rotate: false
+  xy: 112, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Valtessa Lancer
+  rotate: false
+  xy: 148, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nisara Riders
+  rotate: false
+  xy: 184, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orinth Legion
+  rotate: false
+  xy: 220, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Elaris Marksmen
+  rotate: false
+  xy: 256, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Varenth Crossbow
+  rotate: false
+  xy: 292, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sorellia Cavalry
+  rotate: false
+  xy: 328, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Khazara Musketeers
+  rotate: false
+  xy: 4, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Meridia Rifles
+  rotate: false
+  xy: 40, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Avenor Dragoons
+  rotate: false
+  xy: 76, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brisara Infantry
+  rotate: false
+  xy: 112, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dorseth Armored Guard
+  rotate: false
+  xy: 148, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Estenya Guard
+  rotate: false
+  xy: 184, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Faloria Ranger
+  rotate: false
+  xy: 220, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ghalira Lancer
+  rotate: false
+  xy: 256, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hesperis Riders
+  rotate: false
+  xy: 292, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ithara Legion
+  rotate: false
+  xy: 328, 812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jorvane Marksmen
+  rotate: false
+  xy: 4, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kelmora Crossbow
+  rotate: false
+  xy: 40, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lyradis Cavalry
+  rotate: false
+  xy: 76, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Merenza Musketeers
+  rotate: false
+  xy: 112, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Navorra Rifles
+  rotate: false
+  xy: 148, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ophira Dragoons
+  rotate: false
+  xy: 184, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paleron Infantry
+  rotate: false
+  xy: 220, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Quenaris Armored Guard
+  rotate: false
+  xy: 256, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ravessa Guard
+  rotate: false
+  xy: 292, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Seldane Ranger
+  rotate: false
+  xy: 328, 844
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tavaria Lancer
+  rotate: false
+  xy: 4, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ulmaris Riders
+  rotate: false
+  xy: 40, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vesperin Legion
+  rotate: false
+  xy: 76, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Weylan Marksmen
+  rotate: false
+  xy: 112, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Xandria Crossbow
+  rotate: false
+  xy: 148, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yvarra Cavalry
+  rotate: false
+  xy: 184, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zelvara Musketeers
+  rotate: false
+  xy: 220, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Amareth Rifles
+  rotate: false
+  xy: 256, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bravena Dragoons
+  rotate: false
+  xy: 292, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Caldorin Infantry
+  rotate: false
+  xy: 328, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Davenna Armored Guard
+  rotate: false
+  xy: 4, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Esmara Guard
+  rotate: false
+  xy: 40, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Faronis Ranger
+  rotate: false
+  xy: 76, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Glyndor Lancer
+  rotate: false
+  xy: 112, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Halcyra Riders
+  rotate: false
+  xy: 148, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Iverna Legion
+  rotate: false
+  xy: 184, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jalmera Marksmen
+  rotate: false
+  xy: 220, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Koriah Crossbow
+  rotate: false
+  xy: 256, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lazuria Cavalry
+  rotate: false
+  xy: 292, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Morvane Musketeers
+  rotate: false
+  xy: 328, 908
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
