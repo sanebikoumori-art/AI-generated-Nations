@@ -3,7 +3,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-
 NationIcons/Aurelia
   rotate: false
   xy: 4, 4
