@@ -1,0 +1,1334 @@
+[
+    {
+        "name": "Aurelia Hearth",
+        "replaces": "Monument",
+        "uniqueTo": "Aurelia",
+        "cost": 40,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "culture": 3
+    },
+    {
+        "name": "Vardesh Archive",
+        "replaces": "Shrine",
+        "uniqueTo": "Vardesh",
+        "cost": 45,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "faith": 2
+    },
+    {
+        "name": "Qasira Sanctum",
+        "replaces": "Granary",
+        "uniqueTo": "Qasira",
+        "cost": 70,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "food": 2
+    },
+    {
+        "name": "Ceryth Foundry",
+        "replaces": "Library",
+        "uniqueTo": "Ceryth",
+        "cost": 95,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Writing",
+        "science": 3,
+        "percentStatBonus": {
+            "science": 20
+        }
+    },
+    {
+        "name": "Talassar Citadel",
+        "replaces": "Barracks",
+        "uniqueTo": "Talassar",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "production": 1
+    },
+    {
+        "name": "Eldara Exchange",
+        "replaces": "Walls",
+        "uniqueTo": "Eldara",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "culture": 2,
+        "cityStrength": 8,
+        "cityHealth": 60
+    },
+    {
+        "name": "Sorevia Observatory",
+        "replaces": "Temple",
+        "uniqueTo": "Sorevia",
+        "cost": 120,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Philosophy",
+        "gold": 2
+    },
+    {
+        "name": "Kharadun Harbor",
+        "replaces": "Market",
+        "uniqueTo": "Kharadun",
+        "cost": 135,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Currency",
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 25
+        }
+    },
+    {
+        "name": "Nemeris Guildhall",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Nemeris",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Optics",
+        "science": 2
+    },
+    {
+        "name": "Veloria Hall",
+        "replaces": "Stable",
+        "uniqueTo": "Veloria",
+        "cost": 120,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "production": 2
+    },
+    {
+        "name": "Iskandria Hearth",
+        "replaces": "Workshop",
+        "uniqueTo": "Iskandria",
+        "cost": 100,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Metal Casting",
+        "culture": 3,
+        "production": 2
+    },
+    {
+        "name": "Rathen Archive",
+        "replaces": "University",
+        "uniqueTo": "Rathen",
+        "cost": 165,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Education",
+        "faith": 2,
+        "percentStatBonus": {
+            "science": 45
+        }
+    },
+    {
+        "name": "Myrath Sanctum",
+        "replaces": "Factory",
+        "uniqueTo": "Myrath",
+        "cost": 310,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Industrialization",
+        "food": 2,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 20
+        }
+    },
+    {
+        "name": "Ostrava Foundry",
+        "replaces": "Monument",
+        "uniqueTo": "Ostrava",
+        "cost": 55,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "science": 3
+    },
+    {
+        "name": "Zoravia Citadel",
+        "replaces": "Shrine",
+        "uniqueTo": "Zoravia",
+        "cost": 50,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "production": 1
+    },
+    {
+        "name": "Pelagos Exchange",
+        "replaces": "Granary",
+        "uniqueTo": "Pelagos",
+        "cost": 65,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "culture": 2
+    },
+    {
+        "name": "Arkenfall Observatory",
+        "replaces": "Library",
+        "uniqueTo": "Arkenfall",
+        "cost": 80,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Writing",
+        "gold": 2,
+        "percentStatBonus": {
+            "science": 15
+        }
+    },
+    {
+        "name": "Saphrene Harbor",
+        "replaces": "Barracks",
+        "uniqueTo": "Saphrene",
+        "cost": 95,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "gold": 2
+    },
+    {
+        "name": "Damaris Guildhall",
+        "replaces": "Walls",
+        "uniqueTo": "Damaris",
+        "cost": 90,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Science] [in all cities]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "science": 2,
+        "cityStrength": 8,
+        "cityHealth": 50
+    },
+    {
+        "name": "Korinthar Hall",
+        "replaces": "Temple",
+        "uniqueTo": "Korinthar",
+        "cost": 140,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Philosophy",
+        "production": 2
+    },
+    {
+        "name": "Nayara Hearth",
+        "replaces": "Market",
+        "uniqueTo": "Nayara",
+        "cost": 120,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Currency",
+        "culture": 3,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 20
+        }
+    },
+    {
+        "name": "Belvar Archive",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Belvar",
+        "cost": 80,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Optics",
+        "faith": 2
+    },
+    {
+        "name": "Ephyria Sanctum",
+        "replaces": "Stable",
+        "uniqueTo": "Ephyria",
+        "cost": 110,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "food": 2
+    },
+    {
+        "name": "Thessara Foundry",
+        "replaces": "Workshop",
+        "uniqueTo": "Thessara",
+        "cost": 115,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Metal Casting",
+        "science": 3,
+        "production": 2
+    },
+    {
+        "name": "Marovia Citadel",
+        "replaces": "University",
+        "uniqueTo": "Marovia",
+        "cost": 170,
+        "maintenance": 0,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Education",
+        "production": 1,
+        "percentStatBonus": {
+            "science": 45
+        }
+    },
+    {
+        "name": "Qadarin Exchange",
+        "replaces": "Factory",
+        "uniqueTo": "Qadarin",
+        "cost": 305,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Industrialization",
+        "culture": 2,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 20
+        }
+    },
+    {
+        "name": "Luthene Observatory",
+        "replaces": "Monument",
+        "uniqueTo": "Luthene",
+        "cost": 40,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "gold": 2
+    },
+    {
+        "name": "Karthis Harbor",
+        "replaces": "Shrine",
+        "uniqueTo": "Karthis",
+        "cost": 55,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "gold": 2
+    },
+    {
+        "name": "Samyra Guildhall",
+        "replaces": "Granary",
+        "uniqueTo": "Samyra",
+        "cost": 70,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "science": 2
+    },
+    {
+        "name": "Orvannis Hall",
+        "replaces": "Library",
+        "uniqueTo": "Orvannis",
+        "cost": 100,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Writing",
+        "production": 2,
+        "percentStatBonus": {
+            "science": 20
+        }
+    },
+    {
+        "name": "Eryndor Hearth",
+        "replaces": "Barracks",
+        "uniqueTo": "Eryndor",
+        "cost": 80,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "culture": 3
+    },
+    {
+        "name": "Velskar Archive",
+        "replaces": "Walls",
+        "uniqueTo": "Velskar",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "faith": 2,
+        "cityStrength": 7,
+        "cityHealth": 60
+    },
+    {
+        "name": "Cassara Sanctum",
+        "replaces": "Temple",
+        "uniqueTo": "Cassara",
+        "cost": 130,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Philosophy",
+        "food": 2
+    },
+    {
+        "name": "Neravia Foundry",
+        "replaces": "Market",
+        "uniqueTo": "Neravia",
+        "cost": 135,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Currency",
+        "science": 3,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 20
+        }
+    },
+    {
+        "name": "Azrane Citadel",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Azrane",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Optics",
+        "production": 1
+    },
+    {
+        "name": "Feyrun Exchange",
+        "replaces": "Stable",
+        "uniqueTo": "Feyrun",
+        "cost": 105,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "culture": 2
+    },
+    {
+        "name": "Dravik Observatory",
+        "replaces": "Workshop",
+        "uniqueTo": "Dravik",
+        "cost": 100,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting",
+        "gold": 2,
+        "production": 2
+    },
+    {
+        "name": "Orelia Harbor",
+        "replaces": "University",
+        "uniqueTo": "Orelia",
+        "cost": 175,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Education",
+        "gold": 2,
+        "percentStatBonus": {
+            "science": 45
+        }
+    },
+    {
+        "name": "Selvarin Guildhall",
+        "replaces": "Factory",
+        "uniqueTo": "Selvarin",
+        "cost": 310,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Industrialization",
+        "science": 2,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 20
+        }
+    },
+    {
+        "name": "Tirash Hall",
+        "replaces": "Monument",
+        "uniqueTo": "Tirash",
+        "cost": 60,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "production": 2
+    },
+    {
+        "name": "Mavrena Hearth",
+        "replaces": "Shrine",
+        "uniqueTo": "Mavrena",
+        "cost": 40,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "culture": 3
+    },
+    {
+        "name": "Asterra Archive",
+        "replaces": "Granary",
+        "uniqueTo": "Asterra",
+        "cost": 65,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "faith": 2
+    },
+    {
+        "name": "Rovenna Sanctum",
+        "replaces": "Library",
+        "uniqueTo": "Rovenna",
+        "cost": 90,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Writing",
+        "food": 2,
+        "percentStatBonus": {
+            "science": 15
+        }
+    },
+    {
+        "name": "Delyria Foundry",
+        "replaces": "Barracks",
+        "uniqueTo": "Delyria",
+        "cost": 95,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "science": 3
+    },
+    {
+        "name": "Kessan Citadel",
+        "replaces": "Walls",
+        "uniqueTo": "Kessan",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "production": 1,
+        "cityStrength": 7,
+        "cityHealth": 50
+    },
+    {
+        "name": "Uvarra Exchange",
+        "replaces": "Temple",
+        "uniqueTo": "Uvarra",
+        "cost": 125,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Philosophy",
+        "culture": 2
+    },
+    {
+        "name": "Nymora Observatory",
+        "replaces": "Market",
+        "uniqueTo": "Nymora",
+        "cost": 120,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Currency",
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 20
+        }
+    },
+    {
+        "name": "Virelia Harbor",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Virelia",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Optics",
+        "gold": 2
+    },
+    {
+        "name": "Sarneth Guildhall",
+        "replaces": "Stable",
+        "uniqueTo": "Sarneth",
+        "cost": 110,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "science": 2
+    },
+    {
+        "name": "Elvarra Hall",
+        "replaces": "Workshop",
+        "uniqueTo": "Elvarra",
+        "cost": 120,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Metal Casting",
+        "production": 2
+    },
+    {
+        "name": "Caelora Hearth",
+        "replaces": "University",
+        "uniqueTo": "Caelora",
+        "cost": 160,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Education",
+        "culture": 3,
+        "percentStatBonus": {
+            "science": 40
+        }
+    },
+    {
+        "name": "Mordane Archive",
+        "replaces": "Factory",
+        "uniqueTo": "Mordane",
+        "cost": 305,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Industrialization",
+        "faith": 2,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        }
+    },
+    {
+        "name": "Ilyria Nova Sanctum",
+        "replaces": "Monument",
+        "uniqueTo": "Ilyria Nova",
+        "cost": 50,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "food": 2
+    },
+    {
+        "name": "Rhenora Foundry",
+        "replaces": "Shrine",
+        "uniqueTo": "Rhenora",
+        "cost": 55,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "science": 3
+    },
+    {
+        "name": "Valtessa Citadel",
+        "replaces": "Granary",
+        "uniqueTo": "Valtessa",
+        "cost": 70,
+        "maintenance": 0,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "production": 1
+    },
+    {
+        "name": "Nisara Exchange",
+        "replaces": "Library",
+        "uniqueTo": "Nisara",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Writing",
+        "culture": 2,
+        "percentStatBonus": {
+            "science": 20
+        }
+    },
+    {
+        "name": "Orinth Observatory",
+        "replaces": "Barracks",
+        "uniqueTo": "Orinth",
+        "cost": 80,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "gold": 2
+    },
+    {
+        "name": "Elaris Harbor",
+        "replaces": "Walls",
+        "uniqueTo": "Elaris",
+        "cost": 95,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "gold": 2,
+        "cityStrength": 7,
+        "cityHealth": 60
+    },
+    {
+        "name": "Varenth Guildhall",
+        "replaces": "Temple",
+        "uniqueTo": "Varenth",
+        "cost": 130,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Philosophy",
+        "science": 2
+    },
+    {
+        "name": "Sorellia Hall",
+        "replaces": "Market",
+        "uniqueTo": "Sorellia",
+        "cost": 140,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Currency",
+        "production": 2,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 20
+        }
+    },
+    {
+        "name": "Khazara Hearth",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Khazara",
+        "cost": 75,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Optics",
+        "culture": 3
+    },
+    {
+        "name": "Meridia Archive",
+        "replaces": "Stable",
+        "uniqueTo": "Meridia",
+        "cost": 105,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "faith": 2
+    },
+    {
+        "name": "Avenor Sanctum",
+        "replaces": "Workshop",
+        "uniqueTo": "Avenor",
+        "cost": 110,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Metal Casting",
+        "food": 2,
+        "production": 2
+    },
+    {
+        "name": "Brisara Foundry",
+        "replaces": "University",
+        "uniqueTo": "Brisara",
+        "cost": 175,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Education",
+        "science": 3,
+        "percentStatBonus": {
+            "science": 40
+        }
+    },
+    {
+        "name": "Dorseth Citadel",
+        "replaces": "Factory",
+        "uniqueTo": "Dorseth",
+        "cost": 310,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Industrialization",
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        }
+    },
+    {
+        "name": "Estenya Exchange",
+        "replaces": "Monument",
+        "uniqueTo": "Estenya",
+        "cost": 45,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "culture": 2
+    },
+    {
+        "name": "Faloria Observatory",
+        "replaces": "Shrine",
+        "uniqueTo": "Faloria",
+        "cost": 40,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "gold": 2
+    },
+    {
+        "name": "Ghalira Harbor",
+        "replaces": "Granary",
+        "uniqueTo": "Ghalira",
+        "cost": 75,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "gold": 2
+    },
+    {
+        "name": "Hesperis Guildhall",
+        "replaces": "Library",
+        "uniqueTo": "Hesperis",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Writing",
+        "science": 2,
+        "percentStatBonus": {
+            "science": 15
+        }
+    },
+    {
+        "name": "Ithara Hall",
+        "replaces": "Barracks",
+        "uniqueTo": "Ithara",
+        "cost": 100,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "production": 2
+    },
+    {
+        "name": "Jorvane Hearth",
+        "replaces": "Walls",
+        "uniqueTo": "Jorvane",
+        "cost": 80,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "culture": 3,
+        "cityStrength": 6,
+        "cityHealth": 50
+    },
+    {
+        "name": "Kelmora Archive",
+        "replaces": "Temple",
+        "uniqueTo": "Kelmora",
+        "cost": 125,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Philosophy",
+        "faith": 2
+    },
+    {
+        "name": "Lyradis Sanctum",
+        "replaces": "Market",
+        "uniqueTo": "Lyradis",
+        "cost": 130,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Currency",
+        "food": 2,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 30
+        }
+    },
+    {
+        "name": "Merenza Foundry",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Merenza",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Optics",
+        "science": 3
+    },
+    {
+        "name": "Navorra Citadel",
+        "replaces": "Stable",
+        "uniqueTo": "Navorra",
+        "cost": 110,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "production": 1
+    },
+    {
+        "name": "Ophira Exchange",
+        "replaces": "Workshop",
+        "uniqueTo": "Ophira",
+        "cost": 105,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Metal Casting",
+        "culture": 2,
+        "production": 2
+    },
+    {
+        "name": "Paleron Observatory",
+        "replaces": "University",
+        "uniqueTo": "Paleron",
+        "cost": 160,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Education",
+        "gold": 2,
+        "percentStatBonus": {
+            "science": 40
+        }
+    },
+    {
+        "name": "Quenaris Harbor",
+        "replaces": "Factory",
+        "uniqueTo": "Quenaris",
+        "cost": 315,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Industrialization",
+        "gold": 2,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        }
+    },
+    {
+        "name": "Ravessa Guildhall",
+        "replaces": "Monument",
+        "uniqueTo": "Ravessa",
+        "cost": 50,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "science": 2
+    },
+    {
+        "name": "Seldane Hall",
+        "replaces": "Shrine",
+        "uniqueTo": "Seldane",
+        "cost": 60,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Pottery",
+        "production": 2
+    },
+    {
+        "name": "Tavaria Hearth",
+        "replaces": "Granary",
+        "uniqueTo": "Tavaria",
+        "cost": 60,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "culture": 3
+    },
+    {
+        "name": "Ulmaris Archive",
+        "replaces": "Library",
+        "uniqueTo": "Ulmaris",
+        "cost": 85,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "requiredTech": "Writing",
+        "faith": 2,
+        "percentStatBonus": {
+            "science": 20
+        }
+    },
+    {
+        "name": "Vesperin Sanctum",
+        "replaces": "Barracks",
+        "uniqueTo": "Vesperin",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "food": 2
+    },
+    {
+        "name": "Weylan Foundry",
+        "replaces": "Walls",
+        "uniqueTo": "Weylan",
+        "cost": 95,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "science": 3,
+        "cityStrength": 6,
+        "cityHealth": 60
+    },
+    {
+        "name": "Xandria Citadel",
+        "replaces": "Temple",
+        "uniqueTo": "Xandria",
+        "cost": 130,
+        "maintenance": 0,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Philosophy",
+        "production": 1
+    },
+    {
+        "name": "Yvarra Exchange",
+        "replaces": "Market",
+        "uniqueTo": "Yvarra",
+        "cost": 125,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "requiredTech": "Currency",
+        "culture": 2,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 30
+        }
+    },
+    {
+        "name": "Zelvara Observatory",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Zelvara",
+        "cost": 75,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]"
+        ],
+        "requiredTech": "Optics",
+        "gold": 2
+    },
+    {
+        "name": "Amareth Harbor",
+        "replaces": "Stable",
+        "uniqueTo": "Amareth",
+        "cost": 115,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Horseback Riding",
+        "gold": 2
+    },
+    {
+        "name": "Bravena Guildhall",
+        "replaces": "Workshop",
+        "uniqueTo": "Bravena",
+        "cost": 110,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Metal Casting",
+        "science": 2,
+        "production": 2
+    },
+    {
+        "name": "Caldorin Hall",
+        "replaces": "University",
+        "uniqueTo": "Caldorin",
+        "cost": 180,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Education",
+        "production": 2,
+        "percentStatBonus": {
+            "science": 40
+        }
+    },
+    {
+        "name": "Davenna Hearth",
+        "replaces": "Factory",
+        "uniqueTo": "Davenna",
+        "cost": 300,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Culture] [in all cities]"
+        ],
+        "requiredTech": "Industrialization",
+        "culture": 3,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 10
+        }
+    },
+    {
+        "name": "Esmara Archive",
+        "replaces": "Monument",
+        "uniqueTo": "Esmara",
+        "cost": 45,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Faith] [in all cities]"
+        ],
+        "faith": 2
+    },
+    {
+        "name": "Faronis Sanctum",
+        "replaces": "Shrine",
+        "uniqueTo": "Faronis",
+        "cost": 50,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Food] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "food": 2
+    },
+    {
+        "name": "Glyndor Foundry",
+        "replaces": "Granary",
+        "uniqueTo": "Glyndor",
+        "cost": 75,
+        "maintenance": 0,
+        "uniques": [
+            "[+1 Science] [in all cities]"
+        ],
+        "requiredTech": "Pottery",
+        "science": 3
+    },
+    {
+        "name": "Halcyra Citadel",
+        "replaces": "Library",
+        "uniqueTo": "Halcyra",
+        "cost": 90,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Writing",
+        "production": 1,
+        "percentStatBonus": {
+            "science": 15
+        }
+    },
+    {
+        "name": "Iverna Exchange",
+        "replaces": "Barracks",
+        "uniqueTo": "Iverna",
+        "cost": 85,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Culture] [in all cities]",
+            "New [Military] units start with [10] XP [in this city]"
+        ],
+        "requiredTech": "Bronze Working",
+        "culture": 2
+    },
+    {
+        "name": "Jalmera Observatory",
+        "replaces": "Walls",
+        "uniqueTo": "Jalmera",
+        "cost": 80,
+        "maintenance": 0,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry",
+        "gold": 2,
+        "cityStrength": 6,
+        "cityHealth": 50
+    },
+    {
+        "name": "Koriah Harbor",
+        "replaces": "Temple",
+        "uniqueTo": "Koriah",
+        "cost": 135,
+        "maintenance": 1,
+        "uniques": [
+            "[+2 Gold] from [Coast] tiles [in this city]"
+        ],
+        "requiredTech": "Philosophy",
+        "gold": 2
+    },
+    {
+        "name": "Lazuria Guildhall",
+        "replaces": "Market",
+        "uniqueTo": "Lazuria",
+        "cost": 130,
+        "maintenance": 1,
+        "uniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "requiredTech": "Currency",
+        "science": 2,
+        "gold": 2,
+        "percentStatBonus": {
+            "gold": 30
+        }
+    },
+    {
+        "name": "Morvane Hall",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Morvane",
+        "cost": 95,
+        "maintenance": 0,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]"
+        ],
+        "requiredTech": "Optics",
+        "production": 2
+    }
+]

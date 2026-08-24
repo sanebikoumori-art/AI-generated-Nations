@@ -1,0 +1,1564 @@
+[
+    {
+        "name": "Aurelia Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Aurelia",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 8,
+        "cost": 40,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Vardesh Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Vardesh",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 5,
+        "cost": 45,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Qasira Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Qasira",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 12,
+        "cost": 56,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Ceryth Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Ceryth",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 13,
+        "cost": 85,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Talassar Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Talassar",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 16,
+        "cost": 80,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Eldara Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Eldara",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 7,
+        "cost": 80,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Sorevia Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Sorevia",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 130,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Kharadun Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Kharadun",
+        "replaces": "Knight",
+        "movement": 4,
+        "strength": 22,
+        "cost": 135,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Nemeris Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Nemeris",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 25,
+        "cost": 160,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Veloria Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Veloria",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 34,
+        "cost": 245,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Iskandria Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Iskandria",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 34,
+        "cost": 275,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Rathen Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Rathen",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 70,
+        "cost": 380,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Myrath Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Myrath",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 71,
+        "cost": 375,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Ostrava Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Ostrava",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 9,
+        "cost": 50,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Zoravia Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Zoravia",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 7,
+        "cost": 45,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Pelagos Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Pelagos",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 11,
+        "cost": 61,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Arkenfall Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Arkenfall",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 13,
+        "cost": 85,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Saphrene Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Saphrene",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 16,
+        "cost": 90,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Damaris Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Damaris",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 8,
+        "cost": 85,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Korinthar Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Korinthar",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 13,
+        "cost": 140,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Nayara Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Nayara",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Belvar Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Belvar",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 24,
+        "cost": 155,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Ephyria Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Ephyria",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 35,
+        "cost": 225,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Thessara Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Thessara",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 35,
+        "cost": 285,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Marovia Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Marovia",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 72,
+        "cost": 380,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Qadarin Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Qadarin",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 70,
+        "cost": 380,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Luthene Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Luthene",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 9,
+        "cost": 50,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Karthis Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Karthis",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 7,
+        "cost": 55,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Samyra Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Samyra",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 12,
+        "cost": 66,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Orvannis Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Orvannis",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 12,
+        "cost": 95,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Eryndor Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Eryndor",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Velskar Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Velskar",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 7,
+        "cost": 80,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Cassara Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Cassara",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 19
+    },
+    {
+        "name": "Neravia Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Neravia",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 21,
+        "cost": 130,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Azrane Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Azrane",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 26,
+        "cost": 155,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Feyrun Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Feyrun",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 34,
+        "cost": 230,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Dravik Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Dravik",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 35,
+        "cost": 285,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Orelia Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Orelia",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 72,
+        "cost": 390,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Selvarin Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Selvarin",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 71,
+        "cost": 385,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Tirash Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Tirash",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 8,
+        "cost": 60,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Mavrena Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Mavrena",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 5,
+        "cost": 40,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Asterra Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Asterra",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 11,
+        "cost": 61,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Rovenna Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Rovenna",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 13,
+        "cost": 75,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Delyria Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Delyria",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 15,
+        "cost": 85,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Kessan Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Kessan",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 9,
+        "cost": 80,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Uvarra Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Uvarra",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 13,
+        "cost": 125,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Nymora Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Nymora",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 21,
+        "cost": 130,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Virelia Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Virelia",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 26,
+        "cost": 165,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Sarneth Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Sarneth",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 35,
+        "cost": 235,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Elvarra Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Elvarra",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 34,
+        "cost": 295,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Caelora Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Caelora",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 70,
+        "cost": 375,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Mordane Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Mordane",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 70,
+        "cost": 380,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Ilyria Nova Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Ilyria Nova",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 9,
+        "cost": 40,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Rhenora Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Rhenora",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 6,
+        "cost": 50,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 8
+    },
+    {
+        "name": "Valtessa Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Valtessa",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 13,
+        "cost": 61,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Nisara Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Nisara",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 12,
+        "cost": 80,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Orinth Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Orinth",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 15,
+        "cost": 85,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Elaris Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Elaris",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 9,
+        "cost": 90,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Varenth Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Varenth",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 130,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Sorellia Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Sorellia",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 20,
+        "cost": 140,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Khazara Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Khazara",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 24,
+        "cost": 150,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Meridia Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Meridia",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 34,
+        "cost": 230,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Avenor Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Avenor",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 35,
+        "cost": 275,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Brisara Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Brisara",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 71,
+        "cost": 385,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Dorseth Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Dorseth",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 72,
+        "cost": 380,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Estenya Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Estenya",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 8,
+        "cost": 45,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Faloria Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Faloria",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 6,
+        "cost": 50,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Ghalira Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Ghalira",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 13,
+        "cost": 71,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Hesperis Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Hesperis",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 13,
+        "cost": 85,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Ithara Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Ithara",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 95,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Jorvane Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Jorvane",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 7,
+        "cost": 75,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Kelmora Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Kelmora",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 13,
+        "cost": 125,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Lyradis Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Lyradis",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 21,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Merenza Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Merenza",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 25,
+        "cost": 160,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Navorra Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Navorra",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 36,
+        "cost": 230,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Ophira Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Ophira",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 34,
+        "cost": 280,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Paleron Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Paleron",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 71,
+        "cost": 385,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Quenaris Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Quenaris",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 72,
+        "cost": 390,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Ravessa Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Ravessa",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 9,
+        "cost": 50,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Seldane Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Seldane",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 5,
+        "cost": 60,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 7
+    },
+    {
+        "name": "Tavaria Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Tavaria",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 11,
+        "cost": 56,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Ulmaris Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Ulmaris",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 12,
+        "cost": 80,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Vesperin Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Vesperin",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 15,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Weylan Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Weylan",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 8,
+        "cost": 85,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 12
+    },
+    {
+        "name": "Xandria Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Xandria",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 15,
+        "cost": 125,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Yvarra Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Yvarra",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 20,
+        "cost": 125,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Zelvara Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Zelvara",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 25,
+        "cost": 160,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Amareth Rifles",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Amareth",
+        "replaces": "Rifleman",
+        "movement": 2,
+        "strength": 36,
+        "cost": 240,
+        "requiredTech": "Rifling",
+        "upgradesTo": "Great War Infantry",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Bravena Dragoons",
+        "unitType": "Mounted",
+        "uniqueTo": "Bravena",
+        "replaces": "Cavalry",
+        "movement": 5,
+        "strength": 35,
+        "cost": 285,
+        "requiredTech": "Military Science",
+        "upgradesTo": "Landship",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Caldorin Infantry",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Caldorin",
+        "replaces": "Infantry",
+        "movement": 2,
+        "strength": 70,
+        "cost": 395,
+        "requiredTech": "Plastics",
+        "upgradesTo": "Mechanized Infantry",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Davenna Armored Guard",
+        "unitType": "Armored",
+        "uniqueTo": "Davenna",
+        "replaces": "Tank",
+        "movement": 5,
+        "strength": 70,
+        "cost": 375,
+        "requiredTech": "Combined Arms",
+        "upgradesTo": "Modern Armor",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Oil"
+    },
+    {
+        "name": "Esmara Guard",
+        "unitType": "Sword",
+        "uniqueTo": "Esmara",
+        "replaces": "Warrior",
+        "movement": 2,
+        "strength": 8,
+        "cost": 45,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Swordsman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Faronis Ranger",
+        "unitType": "Archery",
+        "uniqueTo": "Faronis",
+        "replaces": "Archer",
+        "movement": 2,
+        "strength": 6,
+        "cost": 40,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 8
+    },
+    {
+        "name": "Glyndor Lancer",
+        "unitType": "Sword",
+        "uniqueTo": "Glyndor",
+        "replaces": "Spearman",
+        "movement": 2,
+        "strength": 12,
+        "cost": 66,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Halcyra Riders",
+        "unitType": "Mounted",
+        "uniqueTo": "Halcyra",
+        "replaces": "Horseman",
+        "movement": 4,
+        "strength": 14,
+        "cost": 80,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Iverna Legion",
+        "unitType": "Sword",
+        "uniqueTo": "Iverna",
+        "replaces": "Swordsman",
+        "movement": 2,
+        "strength": 14,
+        "cost": 80,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "uniques": [
+            "[+25]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "metalhit",
+        "requiredResource": "Iron"
+    },
+    {
+        "name": "Jalmera Marksmen",
+        "unitType": "Archery",
+        "uniqueTo": "Jalmera",
+        "replaces": "Composite Bowman",
+        "movement": 2,
+        "strength": 8,
+        "cost": 85,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "attackSound": "arrow",
+        "rangedStrength": 11
+    },
+    {
+        "name": "Koriah Crossbow",
+        "unitType": "Archery",
+        "uniqueTo": "Koriah",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 15,
+        "cost": 135,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "attackSound": "crossbow",
+        "rangedStrength": 18
+    },
+    {
+        "name": "Lazuria Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Lazuria",
+        "replaces": "Knight",
+        "movement": 3,
+        "strength": 21,
+        "cost": 130,
+        "requiredTech": "Chivalry",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "Rough terrain penalty"
+        ],
+        "attackSound": "horse",
+        "requiredResource": "Horses"
+    },
+    {
+        "name": "Morvane Musketeers",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Morvane",
+        "replaces": "Musketman",
+        "movement": 2,
+        "strength": 24,
+        "cost": 170,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "uniques": [
+            "[-20]% Strength <when defending>"
+        ],
+        "attackSound": "shot"
+    }
+]

@@ -1,1 +1,3602 @@
-
+[
+    {
+        "name": "Aurelia",
+        "leaderName": "Queen Seraphine",
+        "adjective": [
+            "Aurelian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            71,
+            113,
+            47
+        ],
+        "innerColor": [
+            184,
+            142,
+            208
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Aurelia Prime",
+            "Aurelia Haven",
+            "Aurelia Reach",
+            "Aurelia Gate",
+            "Aurelia Crown",
+            "Aurelia Ford",
+            "Aurelia Rise"
+        ]
+    },
+    {
+        "name": "Vardesh",
+        "leaderName": "Rajan Arvind",
+        "adjective": [
+            "Vardeshi"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            108,
+            196,
+            198
+        ],
+        "innerColor": [
+            147,
+            59,
+            57
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Vardesh Prime",
+            "Vardesh Haven",
+            "Vardesh Reach",
+            "Vardesh Gate",
+            "Vardesh Crown",
+            "Vardesh Ford",
+            "Vardesh Rise"
+        ]
+    },
+    {
+        "name": "Qasira",
+        "leaderName": "Sultan Nadiq",
+        "adjective": [
+            "Qasiran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            145,
+            23,
+            93
+        ],
+        "innerColor": [
+            110,
+            232,
+            162
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Qasira Prime",
+            "Qasira Haven",
+            "Qasira Reach",
+            "Qasira Gate",
+            "Qasira Crown",
+            "Qasira Ford",
+            "Qasira Rise"
+        ]
+    },
+    {
+        "name": "Ceryth",
+        "leaderName": "Archon Thaleon",
+        "adjective": [
+            "Cerythian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            182,
+            106,
+            244
+        ],
+        "innerColor": [
+            73,
+            149,
+            11
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Ceryth Prime",
+            "Ceryth Haven",
+            "Ceryth Reach",
+            "Ceryth Gate",
+            "Ceryth Crown",
+            "Ceryth Ford",
+            "Ceryth Rise"
+        ]
+    },
+    {
+        "name": "Talassar",
+        "leaderName": "Admiral Lyra Venn",
+        "adjective": [
+            "Talassari"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            219,
+            189,
+            139
+        ],
+        "innerColor": [
+            36,
+            66,
+            116
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Talassar Prime",
+            "Talassar Haven",
+            "Talassar Reach",
+            "Talassar Gate",
+            "Talassar Crown",
+            "Talassar Ford",
+            "Talassar Rise"
+        ]
+    },
+    {
+        "name": "Eldara",
+        "leaderName": "High Queen Maelis",
+        "adjective": [
+            "Eldaran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            0,
+            16,
+            34
+        ],
+        "innerColor": [
+            255,
+            239,
+            221
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Eldara Prime",
+            "Eldara Haven",
+            "Eldara Reach",
+            "Eldara Gate",
+            "Eldara Crown",
+            "Eldara Ford",
+            "Eldara Rise"
+        ]
+    },
+    {
+        "name": "Sorevia",
+        "leaderName": "Prince Oren",
+        "adjective": [
+            "Sorevian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            37,
+            99,
+            185
+        ],
+        "innerColor": [
+            218,
+            156,
+            70
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Sorevia Prime",
+            "Sorevia Haven",
+            "Sorevia Reach",
+            "Sorevia Gate",
+            "Sorevia Crown",
+            "Sorevia Ford",
+            "Sorevia Rise"
+        ]
+    },
+    {
+        "name": "Kharadun",
+        "leaderName": "Warlord Temur Khar",
+        "adjective": [
+            "Kharadi"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            74,
+            182,
+            80
+        ],
+        "innerColor": [
+            181,
+            73,
+            175
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Kharadun Prime",
+            "Kharadun Haven",
+            "Kharadun Reach",
+            "Kharadun Gate",
+            "Kharadun Crown",
+            "Kharadun Ford",
+            "Kharadun Rise"
+        ]
+    },
+    {
+        "name": "Nemeris",
+        "leaderName": "Scholar Ilyan",
+        "adjective": [
+            "Nemerian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            111,
+            9,
+            231
+        ],
+        "innerColor": [
+            144,
+            246,
+            24
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Nemeris Prime",
+            "Nemeris Haven",
+            "Nemeris Reach",
+            "Nemeris Gate",
+            "Nemeris Crown",
+            "Nemeris Ford",
+            "Nemeris Rise"
+        ]
+    },
+    {
+        "name": "Veloria",
+        "leaderName": "Doge Valen",
+        "adjective": [
+            "Velorian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            148,
+            92,
+            126
+        ],
+        "innerColor": [
+            107,
+            163,
+            129
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Veloria Prime",
+            "Veloria Haven",
+            "Veloria Reach",
+            "Veloria Gate",
+            "Veloria Crown",
+            "Veloria Ford",
+            "Veloria Rise"
+        ]
+    },
+    {
+        "name": "Iskandria",
+        "leaderName": "Queen Cyrene",
+        "adjective": [
+            "Iskandrian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            185,
+            175,
+            21
+        ],
+        "innerColor": [
+            70,
+            80,
+            234
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Iskandria Prime",
+            "Iskandria Haven",
+            "Iskandria Reach",
+            "Iskandria Gate",
+            "Iskandria Crown",
+            "Iskandria Ford",
+            "Iskandria Rise"
+        ]
+    },
+    {
+        "name": "Rathen",
+        "leaderName": "Marshal Corvin",
+        "adjective": [
+            "Rathenic"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            222,
+            2,
+            172
+        ],
+        "innerColor": [
+            33,
+            253,
+            83
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Rathen Prime",
+            "Rathen Haven",
+            "Rathen Reach",
+            "Rathen Gate",
+            "Rathen Crown",
+            "Rathen Ford",
+            "Rathen Rise"
+        ]
+    },
+    {
+        "name": "Myrath",
+        "leaderName": "Priestess Elira",
+        "adjective": [
+            "Myrathic"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            3,
+            85,
+            67
+        ],
+        "innerColor": [
+            252,
+            170,
+            188
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Myrath Prime",
+            "Myrath Haven",
+            "Myrath Reach",
+            "Myrath Gate",
+            "Myrath Crown",
+            "Myrath Ford",
+            "Myrath Rise"
+        ]
+    },
+    {
+        "name": "Ostrava",
+        "leaderName": "King Davor",
+        "adjective": [
+            "Ostravan"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            40,
+            168,
+            218
+        ],
+        "innerColor": [
+            215,
+            87,
+            37
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Ostrava Prime",
+            "Ostrava Haven",
+            "Ostrava Reach",
+            "Ostrava Gate",
+            "Ostrava Crown",
+            "Ostrava Ford",
+            "Ostrava Rise"
+        ]
+    },
+    {
+        "name": "Zoravia",
+        "leaderName": "Empress Zora",
+        "adjective": [
+            "Zoravian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            77,
+            251,
+            113
+        ],
+        "innerColor": [
+            178,
+            4,
+            142
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Zoravia Prime",
+            "Zoravia Haven",
+            "Zoravia Reach",
+            "Zoravia Gate",
+            "Zoravia Crown",
+            "Zoravia Ford",
+            "Zoravia Rise"
+        ]
+    },
+    {
+        "name": "Pelagos",
+        "leaderName": "Basilius Nikos",
+        "adjective": [
+            "Pelagian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            114,
+            78,
+            8
+        ],
+        "innerColor": [
+            141,
+            177,
+            247
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Pelagos Prime",
+            "Pelagos Haven",
+            "Pelagos Reach",
+            "Pelagos Gate",
+            "Pelagos Crown",
+            "Pelagos Ford",
+            "Pelagos Rise"
+        ]
+    },
+    {
+        "name": "Arkenfall",
+        "leaderName": "Lord Hadrien",
+        "adjective": [
+            "Arkenfallian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            151,
+            161,
+            159
+        ],
+        "innerColor": [
+            104,
+            94,
+            96
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Arkenfall Prime",
+            "Arkenfall Haven",
+            "Arkenfall Reach",
+            "Arkenfall Gate",
+            "Arkenfall Crown",
+            "Arkenfall Ford",
+            "Arkenfall Rise"
+        ]
+    },
+    {
+        "name": "Saphrene",
+        "leaderName": "Sovereign Mira",
+        "adjective": [
+            "Saphrine"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            188,
+            244,
+            54
+        ],
+        "innerColor": [
+            67,
+            11,
+            201
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Saphrene Prime",
+            "Saphrene Haven",
+            "Saphrene Reach",
+            "Saphrene Gate",
+            "Saphrene Crown",
+            "Saphrene Ford",
+            "Saphrene Rise"
+        ]
+    },
+    {
+        "name": "Damaris",
+        "leaderName": "Queen Althea",
+        "adjective": [
+            "Damarian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            225,
+            71,
+            205
+        ],
+        "innerColor": [
+            30,
+            184,
+            50
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Damaris Prime",
+            "Damaris Haven",
+            "Damaris Reach",
+            "Damaris Gate",
+            "Damaris Crown",
+            "Damaris Ford",
+            "Damaris Rise"
+        ]
+    },
+    {
+        "name": "Korinthar",
+        "leaderName": "Strategos Varek",
+        "adjective": [
+            "Korinthari"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            6,
+            154,
+            100
+        ],
+        "innerColor": [
+            249,
+            101,
+            155
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Korinthar Prime",
+            "Korinthar Haven",
+            "Korinthar Reach",
+            "Korinthar Gate",
+            "Korinthar Crown",
+            "Korinthar Ford",
+            "Korinthar Rise"
+        ]
+    },
+    {
+        "name": "Nayara",
+        "leaderName": "Sultana Afiya",
+        "adjective": [
+            "Nayaran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            43,
+            237,
+            251
+        ],
+        "innerColor": [
+            212,
+            18,
+            4
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Nayara Prime",
+            "Nayara Haven",
+            "Nayara Reach",
+            "Nayara Gate",
+            "Nayara Crown",
+            "Nayara Ford",
+            "Nayara Rise"
+        ]
+    },
+    {
+        "name": "Belvar",
+        "leaderName": "Grand Duke Rovan",
+        "adjective": [
+            "Belvaran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            80,
+            64,
+            146
+        ],
+        "innerColor": [
+            175,
+            191,
+            109
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Belvar Prime",
+            "Belvar Haven",
+            "Belvar Reach",
+            "Belvar Gate",
+            "Belvar Crown",
+            "Belvar Ford",
+            "Belvar Rise"
+        ]
+    },
+    {
+        "name": "Ephyria",
+        "leaderName": "Oracle Selene",
+        "adjective": [
+            "Ephyrian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            117,
+            147,
+            41
+        ],
+        "innerColor": [
+            138,
+            108,
+            214
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Ephyria Prime",
+            "Ephyria Haven",
+            "Ephyria Reach",
+            "Ephyria Gate",
+            "Ephyria Crown",
+            "Ephyria Ford",
+            "Ephyria Rise"
+        ]
+    },
+    {
+        "name": "Thessara",
+        "leaderName": "Basiltessa Ione",
+        "adjective": [
+            "Thessaran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            154,
+            230,
+            192
+        ],
+        "innerColor": [
+            101,
+            25,
+            63
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Thessara Prime",
+            "Thessara Haven",
+            "Thessara Reach",
+            "Thessara Gate",
+            "Thessara Crown",
+            "Thessara Ford",
+            "Thessara Rise"
+        ]
+    },
+    {
+        "name": "Marovia",
+        "leaderName": "King Stellan",
+        "adjective": [
+            "Marovian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            191,
+            57,
+            87
+        ],
+        "innerColor": [
+            64,
+            198,
+            168
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Marovia Prime",
+            "Marovia Haven",
+            "Marovia Reach",
+            "Marovia Gate",
+            "Marovia Crown",
+            "Marovia Ford",
+            "Marovia Rise"
+        ]
+    },
+    {
+        "name": "Qadarin",
+        "leaderName": "Emir Farid",
+        "adjective": [
+            "Qadarine"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            228,
+            140,
+            238
+        ],
+        "innerColor": [
+            27,
+            115,
+            17
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Qadarin Prime",
+            "Qadarin Haven",
+            "Qadarin Reach",
+            "Qadarin Gate",
+            "Qadarin Crown",
+            "Qadarin Ford",
+            "Qadarin Rise"
+        ]
+    },
+    {
+        "name": "Luthene",
+        "leaderName": "Queen Orielle",
+        "adjective": [
+            "Luthenian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            9,
+            223,
+            133
+        ],
+        "innerColor": [
+            246,
+            32,
+            122
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Luthene Prime",
+            "Luthene Haven",
+            "Luthene Reach",
+            "Luthene Gate",
+            "Luthene Crown",
+            "Luthene Ford",
+            "Luthene Rise"
+        ]
+    },
+    {
+        "name": "Karthis",
+        "leaderName": "General Veyra",
+        "adjective": [
+            "Karthian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            46,
+            50,
+            28
+        ],
+        "innerColor": [
+            209,
+            205,
+            227
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Karthis Prime",
+            "Karthis Haven",
+            "Karthis Reach",
+            "Karthis Gate",
+            "Karthis Crown",
+            "Karthis Ford",
+            "Karthis Rise"
+        ]
+    },
+    {
+        "name": "Samyra",
+        "leaderName": "Sage Samir",
+        "adjective": [
+            "Samyran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            83,
+            133,
+            179
+        ],
+        "innerColor": [
+            172,
+            122,
+            76
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Samyra Prime",
+            "Samyra Haven",
+            "Samyra Reach",
+            "Samyra Gate",
+            "Samyra Crown",
+            "Samyra Ford",
+            "Samyra Rise"
+        ]
+    },
+    {
+        "name": "Orvannis",
+        "leaderName": "Dogesza Elian",
+        "adjective": [
+            "Orvannic"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            120,
+            216,
+            74
+        ],
+        "innerColor": [
+            135,
+            39,
+            181
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Orvannis Prime",
+            "Orvannis Haven",
+            "Orvannis Reach",
+            "Orvannis Gate",
+            "Orvannis Crown",
+            "Orvannis Ford",
+            "Orvannis Rise"
+        ]
+    },
+    {
+        "name": "Eryndor",
+        "leaderName": "High King Aeron",
+        "adjective": [
+            "Eryndori"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            157,
+            43,
+            225
+        ],
+        "innerColor": [
+            98,
+            212,
+            30
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Eryndor Prime",
+            "Eryndor Haven",
+            "Eryndor Reach",
+            "Eryndor Gate",
+            "Eryndor Crown",
+            "Eryndor Ford",
+            "Eryndor Rise"
+        ]
+    },
+    {
+        "name": "Velskar",
+        "leaderName": "Khan Velkan",
+        "adjective": [
+            "Velskar"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            194,
+            126,
+            120
+        ],
+        "innerColor": [
+            61,
+            129,
+            135
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Velskar Prime",
+            "Velskar Haven",
+            "Velskar Reach",
+            "Velskar Gate",
+            "Velskar Crown",
+            "Velskar Ford",
+            "Velskar Rise"
+        ]
+    },
+    {
+        "name": "Cassara",
+        "leaderName": "Lady Cassia",
+        "adjective": [
+            "Cassaran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            231,
+            209,
+            15
+        ],
+        "innerColor": [
+            24,
+            46,
+            240
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Cassara Prime",
+            "Cassara Haven",
+            "Cassara Reach",
+            "Cassara Gate",
+            "Cassara Crown",
+            "Cassara Ford",
+            "Cassara Rise"
+        ]
+    },
+    {
+        "name": "Neravia",
+        "leaderName": "Tsar Nadya",
+        "adjective": [
+            "Neravian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            12,
+            36,
+            166
+        ],
+        "innerColor": [
+            243,
+            219,
+            89
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Neravia Prime",
+            "Neravia Haven",
+            "Neravia Reach",
+            "Neravia Gate",
+            "Neravia Crown",
+            "Neravia Ford",
+            "Neravia Rise"
+        ]
+    },
+    {
+        "name": "Azrane",
+        "leaderName": "Vizier Azim",
+        "adjective": [
+            "Azrani"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            49,
+            119,
+            61
+        ],
+        "innerColor": [
+            206,
+            136,
+            194
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Azrane Prime",
+            "Azrane Haven",
+            "Azrane Reach",
+            "Azrane Gate",
+            "Azrane Crown",
+            "Azrane Ford",
+            "Azrane Rise"
+        ]
+    },
+    {
+        "name": "Feyrun",
+        "leaderName": "Queen Feya",
+        "adjective": [
+            "Feyruni"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            86,
+            202,
+            212
+        ],
+        "innerColor": [
+            169,
+            53,
+            43
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Feyrun Prime",
+            "Feyrun Haven",
+            "Feyrun Reach",
+            "Feyrun Gate",
+            "Feyrun Crown",
+            "Feyrun Ford",
+            "Feyrun Rise"
+        ]
+    },
+    {
+        "name": "Dravik",
+        "leaderName": "Jarl Draven",
+        "adjective": [
+            "Dravikan"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            123,
+            29,
+            107
+        ],
+        "innerColor": [
+            132,
+            226,
+            148
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Dravik Prime",
+            "Dravik Haven",
+            "Dravik Reach",
+            "Dravik Gate",
+            "Dravik Crown",
+            "Dravik Ford",
+            "Dravik Rise"
+        ]
+    },
+    {
+        "name": "Orelia",
+        "leaderName": "Empress Orla",
+        "adjective": [
+            "Orelian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            160,
+            112,
+            2
+        ],
+        "innerColor": [
+            95,
+            143,
+            253
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Orelia Prime",
+            "Orelia Haven",
+            "Orelia Reach",
+            "Orelia Gate",
+            "Orelia Crown",
+            "Orelia Ford",
+            "Orelia Rise"
+        ]
+    },
+    {
+        "name": "Selvarin",
+        "leaderName": "Duke Selvar",
+        "adjective": [
+            "Selvarian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            197,
+            195,
+            153
+        ],
+        "innerColor": [
+            58,
+            60,
+            102
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Selvarin Prime",
+            "Selvarin Haven",
+            "Selvarin Reach",
+            "Selvarin Gate",
+            "Selvarin Crown",
+            "Selvarin Ford",
+            "Selvarin Rise"
+        ]
+    },
+    {
+        "name": "Tirash",
+        "leaderName": "Commander Tirad",
+        "adjective": [
+            "Tirashi"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            234,
+            22,
+            48
+        ],
+        "innerColor": [
+            21,
+            233,
+            207
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Tirash Prime",
+            "Tirash Haven",
+            "Tirash Reach",
+            "Tirash Gate",
+            "Tirash Crown",
+            "Tirash Ford",
+            "Tirash Rise"
+        ]
+    },
+    {
+        "name": "Mavrena",
+        "leaderName": "Queen Mavra",
+        "adjective": [
+            "Mavreni"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            15,
+            105,
+            199
+        ],
+        "innerColor": [
+            240,
+            150,
+            56
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Mavrena Prime",
+            "Mavrena Haven",
+            "Mavrena Reach",
+            "Mavrena Gate",
+            "Mavrena Crown",
+            "Mavrena Ford",
+            "Mavrena Rise"
+        ]
+    },
+    {
+        "name": "Asterra",
+        "leaderName": "Professor Astra Vale",
+        "adjective": [
+            "Asterran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            52,
+            188,
+            94
+        ],
+        "innerColor": [
+            203,
+            67,
+            161
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Asterra Prime",
+            "Asterra Haven",
+            "Asterra Reach",
+            "Asterra Gate",
+            "Asterra Crown",
+            "Asterra Ford",
+            "Asterra Rise"
+        ]
+    },
+    {
+        "name": "Rovenna",
+        "leaderName": "Duchess Rovena",
+        "adjective": [
+            "Rovennian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            89,
+            15,
+            245
+        ],
+        "innerColor": [
+            166,
+            240,
+            10
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Rovenna Prime",
+            "Rovenna Haven",
+            "Rovenna Reach",
+            "Rovenna Gate",
+            "Rovenna Crown",
+            "Rovenna Ford",
+            "Rovenna Rise"
+        ]
+    },
+    {
+        "name": "Delyria",
+        "leaderName": "Queen Delia",
+        "adjective": [
+            "Delyrian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            126,
+            98,
+            140
+        ],
+        "innerColor": [
+            129,
+            157,
+            115
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Delyria Prime",
+            "Delyria Haven",
+            "Delyria Reach",
+            "Delyria Gate",
+            "Delyria Crown",
+            "Delyria Ford",
+            "Delyria Rise"
+        ]
+    },
+    {
+        "name": "Kessan",
+        "leaderName": "Khan Kessir",
+        "adjective": [
+            "Kessani"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            163,
+            181,
+            35
+        ],
+        "innerColor": [
+            92,
+            74,
+            220
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Kessan Prime",
+            "Kessan Haven",
+            "Kessan Reach",
+            "Kessan Gate",
+            "Kessan Crown",
+            "Kessan Ford",
+            "Kessan Rise"
+        ]
+    },
+    {
+        "name": "Uvarra",
+        "leaderName": "Matriarch Uvara",
+        "adjective": [
+            "Uvarran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            200,
+            8,
+            186
+        ],
+        "innerColor": [
+            55,
+            247,
+            69
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Uvarra Prime",
+            "Uvarra Haven",
+            "Uvarra Reach",
+            "Uvarra Gate",
+            "Uvarra Crown",
+            "Uvarra Ford",
+            "Uvarra Rise"
+        ]
+    },
+    {
+        "name": "Nymora",
+        "leaderName": "Seer Nymera",
+        "adjective": [
+            "Nymoran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            237,
+            91,
+            81
+        ],
+        "innerColor": [
+            18,
+            164,
+            174
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Nymora Prime",
+            "Nymora Haven",
+            "Nymora Reach",
+            "Nymora Gate",
+            "Nymora Crown",
+            "Nymora Ford",
+            "Nymora Rise"
+        ]
+    },
+    {
+        "name": "Virelia",
+        "leaderName": "Emperor Virel",
+        "adjective": [
+            "Virelian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            18,
+            174,
+            232
+        ],
+        "innerColor": [
+            237,
+            81,
+            23
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Virelia Prime",
+            "Virelia Haven",
+            "Virelia Reach",
+            "Virelia Gate",
+            "Virelia Crown",
+            "Virelia Ford",
+            "Virelia Rise"
+        ]
+    },
+    {
+        "name": "Sarneth",
+        "leaderName": "King Sarn",
+        "adjective": [
+            "Sarnethi"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            55,
+            1,
+            127
+        ],
+        "innerColor": [
+            200,
+            254,
+            128
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Sarneth Prime",
+            "Sarneth Haven",
+            "Sarneth Reach",
+            "Sarneth Gate",
+            "Sarneth Crown",
+            "Sarneth Ford",
+            "Sarneth Rise"
+        ]
+    },
+    {
+        "name": "Elvarra",
+        "leaderName": "Queen Elva",
+        "adjective": [
+            "Elvarran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            92,
+            84,
+            22
+        ],
+        "innerColor": [
+            163,
+            171,
+            233
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Elvarra Prime",
+            "Elvarra Haven",
+            "Elvarra Reach",
+            "Elvarra Gate",
+            "Elvarra Crown",
+            "Elvarra Ford",
+            "Elvarra Rise"
+        ]
+    },
+    {
+        "name": "Caelora",
+        "leaderName": "Archon Cael",
+        "adjective": [
+            "Caeloran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            129,
+            167,
+            173
+        ],
+        "innerColor": [
+            126,
+            88,
+            82
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Caelora Prime",
+            "Caelora Haven",
+            "Caelora Reach",
+            "Caelora Gate",
+            "Caelora Crown",
+            "Caelora Ford",
+            "Caelora Rise"
+        ]
+    },
+    {
+        "name": "Mordane",
+        "leaderName": "Warlord Mordec",
+        "adjective": [
+            "Mordanian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            166,
+            250,
+            68
+        ],
+        "innerColor": [
+            89,
+            5,
+            187
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Mordane Prime",
+            "Mordane Haven",
+            "Mordane Reach",
+            "Mordane Gate",
+            "Mordane Crown",
+            "Mordane Ford",
+            "Mordane Rise"
+        ]
+    },
+    {
+        "name": "Ilyria Nova",
+        "leaderName": "Empress Ilena",
+        "adjective": [
+            "Ilyrian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            203,
+            77,
+            219
+        ],
+        "innerColor": [
+            52,
+            178,
+            36
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "IlyriaNova Prime",
+            "IlyriaNova Haven",
+            "IlyriaNova Reach",
+            "IlyriaNova Gate",
+            "IlyriaNova Crown",
+            "IlyriaNova Ford",
+            "IlyriaNova Rise"
+        ]
+    },
+    {
+        "name": "Rhenora",
+        "leaderName": "Queen Rhea",
+        "adjective": [
+            "Rhenoran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            240,
+            160,
+            114
+        ],
+        "innerColor": [
+            15,
+            95,
+            141
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Rhenora Prime",
+            "Rhenora Haven",
+            "Rhenora Reach",
+            "Rhenora Gate",
+            "Rhenora Crown",
+            "Rhenora Ford",
+            "Rhenora Rise"
+        ]
+    },
+    {
+        "name": "Valtessa",
+        "leaderName": "Doge Valtero",
+        "adjective": [
+            "Valtessan"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            21,
+            243,
+            9
+        ],
+        "innerColor": [
+            234,
+            12,
+            246
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Valtessa Prime",
+            "Valtessa Haven",
+            "Valtessa Reach",
+            "Valtessa Gate",
+            "Valtessa Crown",
+            "Valtessa Ford",
+            "Valtessa Rise"
+        ]
+    },
+    {
+        "name": "Nisara",
+        "leaderName": "Sultan Nisar",
+        "adjective": [
+            "Nisaran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            58,
+            70,
+            160
+        ],
+        "innerColor": [
+            197,
+            185,
+            95
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Nisara Prime",
+            "Nisara Haven",
+            "Nisara Reach",
+            "Nisara Gate",
+            "Nisara Crown",
+            "Nisara Ford",
+            "Nisara Rise"
+        ]
+    },
+    {
+        "name": "Orinth",
+        "leaderName": "Strategos Orin",
+        "adjective": [
+            "Orinthian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            95,
+            153,
+            55
+        ],
+        "innerColor": [
+            160,
+            102,
+            200
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Orinth Prime",
+            "Orinth Haven",
+            "Orinth Reach",
+            "Orinth Gate",
+            "Orinth Crown",
+            "Orinth Ford",
+            "Orinth Rise"
+        ]
+    },
+    {
+        "name": "Elaris",
+        "leaderName": "Scholar Elian",
+        "adjective": [
+            "Elarian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            132,
+            236,
+            206
+        ],
+        "innerColor": [
+            123,
+            19,
+            49
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Elaris Prime",
+            "Elaris Haven",
+            "Elaris Reach",
+            "Elaris Gate",
+            "Elaris Crown",
+            "Elaris Ford",
+            "Elaris Rise"
+        ]
+    },
+    {
+        "name": "Varenth",
+        "leaderName": "Queen Vara",
+        "adjective": [
+            "Varenthian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            169,
+            63,
+            101
+        ],
+        "innerColor": [
+            86,
+            192,
+            154
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Varenth Prime",
+            "Varenth Haven",
+            "Varenth Reach",
+            "Varenth Gate",
+            "Varenth Crown",
+            "Varenth Ford",
+            "Varenth Rise"
+        ]
+    },
+    {
+        "name": "Sorellia",
+        "leaderName": "Princess Sora",
+        "adjective": [
+            "Sorellian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            206,
+            146,
+            252
+        ],
+        "innerColor": [
+            49,
+            109,
+            3
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Sorellia Prime",
+            "Sorellia Haven",
+            "Sorellia Reach",
+            "Sorellia Gate",
+            "Sorellia Crown",
+            "Sorellia Ford",
+            "Sorellia Rise"
+        ]
+    },
+    {
+        "name": "Khazara",
+        "leaderName": "Khan Khazar",
+        "adjective": [
+            "Khazaran"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            243,
+            229,
+            147
+        ],
+        "innerColor": [
+            12,
+            26,
+            108
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Khazara Prime",
+            "Khazara Haven",
+            "Khazara Reach",
+            "Khazara Gate",
+            "Khazara Crown",
+            "Khazara Ford",
+            "Khazara Rise"
+        ]
+    },
+    {
+        "name": "Meridia",
+        "leaderName": "Empress Merid",
+        "adjective": [
+            "Meridian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            24,
+            56,
+            42
+        ],
+        "innerColor": [
+            231,
+            199,
+            213
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Meridia Prime",
+            "Meridia Haven",
+            "Meridia Reach",
+            "Meridia Gate",
+            "Meridia Crown",
+            "Meridia Ford",
+            "Meridia Rise"
+        ]
+    },
+    {
+        "name": "Avenor",
+        "leaderName": "King Aven",
+        "adjective": [
+            "Avenori"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            61,
+            139,
+            193
+        ],
+        "innerColor": [
+            194,
+            116,
+            62
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Avenor Prime",
+            "Avenor Haven",
+            "Avenor Reach",
+            "Avenor Gate",
+            "Avenor Crown",
+            "Avenor Ford",
+            "Avenor Rise"
+        ]
+    },
+    {
+        "name": "Brisara",
+        "leaderName": "Queen Brisa",
+        "adjective": [
+            "Brisaran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            98,
+            222,
+            88
+        ],
+        "innerColor": [
+            157,
+            33,
+            167
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Brisara Prime",
+            "Brisara Haven",
+            "Brisara Reach",
+            "Brisara Gate",
+            "Brisara Crown",
+            "Brisara Ford",
+            "Brisara Rise"
+        ]
+    },
+    {
+        "name": "Dorseth",
+        "leaderName": "Marshal Doric",
+        "adjective": [
+            "Dorsethi"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            135,
+            49,
+            239
+        ],
+        "innerColor": [
+            120,
+            206,
+            16
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Dorseth Prime",
+            "Dorseth Haven",
+            "Dorseth Reach",
+            "Dorseth Gate",
+            "Dorseth Crown",
+            "Dorseth Ford",
+            "Dorseth Rise"
+        ]
+    },
+    {
+        "name": "Estenya",
+        "leaderName": "Regent Este",
+        "adjective": [
+            "Estenyan"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            172,
+            132,
+            134
+        ],
+        "innerColor": [
+            83,
+            123,
+            121
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Estenya Prime",
+            "Estenya Haven",
+            "Estenya Reach",
+            "Estenya Gate",
+            "Estenya Crown",
+            "Estenya Ford",
+            "Estenya Rise"
+        ]
+    },
+    {
+        "name": "Faloria",
+        "leaderName": "Lady Falia",
+        "adjective": [
+            "Falorian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            209,
+            215,
+            29
+        ],
+        "innerColor": [
+            46,
+            40,
+            226
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Faloria Prime",
+            "Faloria Haven",
+            "Faloria Reach",
+            "Faloria Gate",
+            "Faloria Crown",
+            "Faloria Ford",
+            "Faloria Rise"
+        ]
+    },
+    {
+        "name": "Ghalira",
+        "leaderName": "Emir Ghali",
+        "adjective": [
+            "Ghaliran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            246,
+            42,
+            180
+        ],
+        "innerColor": [
+            9,
+            213,
+            75
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Ghalira Prime",
+            "Ghalira Haven",
+            "Ghalira Reach",
+            "Ghalira Gate",
+            "Ghalira Crown",
+            "Ghalira Ford",
+            "Ghalira Rise"
+        ]
+    },
+    {
+        "name": "Hesperis",
+        "leaderName": "Queen Hespera",
+        "adjective": [
+            "Hesperian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            27,
+            125,
+            75
+        ],
+        "innerColor": [
+            228,
+            130,
+            180
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Hesperis Prime",
+            "Hesperis Haven",
+            "Hesperis Reach",
+            "Hesperis Gate",
+            "Hesperis Crown",
+            "Hesperis Ford",
+            "Hesperis Rise"
+        ]
+    },
+    {
+        "name": "Ithara",
+        "leaderName": "General Ithar",
+        "adjective": [
+            "Itharan"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            64,
+            208,
+            226
+        ],
+        "innerColor": [
+            191,
+            47,
+            29
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Ithara Prime",
+            "Ithara Haven",
+            "Ithara Reach",
+            "Ithara Gate",
+            "Ithara Crown",
+            "Ithara Ford",
+            "Ithara Rise"
+        ]
+    },
+    {
+        "name": "Jorvane",
+        "leaderName": "King Jorvan",
+        "adjective": [
+            "Jorvan"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            101,
+            35,
+            121
+        ],
+        "innerColor": [
+            154,
+            220,
+            134
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Jorvane Prime",
+            "Jorvane Haven",
+            "Jorvane Reach",
+            "Jorvane Gate",
+            "Jorvane Crown",
+            "Jorvane Ford",
+            "Jorvane Rise"
+        ]
+    },
+    {
+        "name": "Kelmora",
+        "leaderName": "Queen Kelma",
+        "adjective": [
+            "Kelmoran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            138,
+            118,
+            16
+        ],
+        "innerColor": [
+            117,
+            137,
+            239
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Kelmora Prime",
+            "Kelmora Haven",
+            "Kelmora Reach",
+            "Kelmora Gate",
+            "Kelmora Crown",
+            "Kelmora Ford",
+            "Kelmora Rise"
+        ]
+    },
+    {
+        "name": "Lyradis",
+        "leaderName": "Archon Lyra",
+        "adjective": [
+            "Lyradian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            175,
+            201,
+            167
+        ],
+        "innerColor": [
+            80,
+            54,
+            88
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Lyradis Prime",
+            "Lyradis Haven",
+            "Lyradis Reach",
+            "Lyradis Gate",
+            "Lyradis Crown",
+            "Lyradis Ford",
+            "Lyradis Rise"
+        ]
+    },
+    {
+        "name": "Merenza",
+        "leaderName": "Doge Meren",
+        "adjective": [
+            "Merenzan"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            212,
+            28,
+            62
+        ],
+        "innerColor": [
+            43,
+            227,
+            193
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Merenza Prime",
+            "Merenza Haven",
+            "Merenza Reach",
+            "Merenza Gate",
+            "Merenza Crown",
+            "Merenza Ford",
+            "Merenza Rise"
+        ]
+    },
+    {
+        "name": "Navorra",
+        "leaderName": "Queen Navor",
+        "adjective": [
+            "Navorran"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            249,
+            111,
+            213
+        ],
+        "innerColor": [
+            6,
+            144,
+            42
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Navorra Prime",
+            "Navorra Haven",
+            "Navorra Reach",
+            "Navorra Gate",
+            "Navorra Crown",
+            "Navorra Ford",
+            "Navorra Rise"
+        ]
+    },
+    {
+        "name": "Ophira",
+        "leaderName": "Sage Ophir",
+        "adjective": [
+            "Ophiran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            30,
+            194,
+            108
+        ],
+        "innerColor": [
+            225,
+            61,
+            147
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Ophira Prime",
+            "Ophira Haven",
+            "Ophira Reach",
+            "Ophira Gate",
+            "Ophira Crown",
+            "Ophira Ford",
+            "Ophira Rise"
+        ]
+    },
+    {
+        "name": "Paleron",
+        "leaderName": "Duke Paler",
+        "adjective": [
+            "Paleroni"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            67,
+            21,
+            3
+        ],
+        "innerColor": [
+            188,
+            234,
+            252
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Paleron Prime",
+            "Paleron Haven",
+            "Paleron Reach",
+            "Paleron Gate",
+            "Paleron Crown",
+            "Paleron Ford",
+            "Paleron Rise"
+        ]
+    },
+    {
+        "name": "Quenaris",
+        "leaderName": "Queen Quena",
+        "adjective": [
+            "Quenarian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            104,
+            104,
+            154
+        ],
+        "innerColor": [
+            151,
+            151,
+            101
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Quenaris Prime",
+            "Quenaris Haven",
+            "Quenaris Reach",
+            "Quenaris Gate",
+            "Quenaris Crown",
+            "Quenaris Ford",
+            "Quenaris Rise"
+        ]
+    },
+    {
+        "name": "Ravessa",
+        "leaderName": "Marshal Raves",
+        "adjective": [
+            "Ravessan"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            141,
+            187,
+            49
+        ],
+        "innerColor": [
+            114,
+            68,
+            206
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Ravessa Prime",
+            "Ravessa Haven",
+            "Ravessa Reach",
+            "Ravessa Gate",
+            "Ravessa Crown",
+            "Ravessa Ford",
+            "Ravessa Rise"
+        ]
+    },
+    {
+        "name": "Seldane",
+        "leaderName": "King Seldo",
+        "adjective": [
+            "Seldanian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            178,
+            14,
+            200
+        ],
+        "innerColor": [
+            77,
+            241,
+            55
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Seldane Prime",
+            "Seldane Haven",
+            "Seldane Reach",
+            "Seldane Gate",
+            "Seldane Crown",
+            "Seldane Ford",
+            "Seldane Rise"
+        ]
+    },
+    {
+        "name": "Tavaria",
+        "leaderName": "Queen Tavia",
+        "adjective": [
+            "Tavarian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            215,
+            97,
+            95
+        ],
+        "innerColor": [
+            40,
+            158,
+            160
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Tavaria Prime",
+            "Tavaria Haven",
+            "Tavaria Reach",
+            "Tavaria Gate",
+            "Tavaria Crown",
+            "Tavaria Ford",
+            "Tavaria Rise"
+        ]
+    },
+    {
+        "name": "Ulmaris",
+        "leaderName": "Emperor Ulmar",
+        "adjective": [
+            "Ulmarian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            252,
+            180,
+            246
+        ],
+        "innerColor": [
+            3,
+            75,
+            9
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Ulmaris Prime",
+            "Ulmaris Haven",
+            "Ulmaris Reach",
+            "Ulmaris Gate",
+            "Ulmaris Crown",
+            "Ulmaris Ford",
+            "Ulmaris Rise"
+        ]
+    },
+    {
+        "name": "Vesperin",
+        "leaderName": "Queen Vespera",
+        "adjective": [
+            "Vesperian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            33,
+            7,
+            141
+        ],
+        "innerColor": [
+            222,
+            248,
+            114
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Vesperin Prime",
+            "Vesperin Haven",
+            "Vesperin Reach",
+            "Vesperin Gate",
+            "Vesperin Crown",
+            "Vesperin Ford",
+            "Vesperin Rise"
+        ]
+    },
+    {
+        "name": "Weylan",
+        "leaderName": "Lord Weyl",
+        "adjective": [
+            "Weylan"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            70,
+            90,
+            36
+        ],
+        "innerColor": [
+            185,
+            165,
+            219
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Weylan Prime",
+            "Weylan Haven",
+            "Weylan Reach",
+            "Weylan Gate",
+            "Weylan Crown",
+            "Weylan Ford",
+            "Weylan Rise"
+        ]
+    },
+    {
+        "name": "Xandria",
+        "leaderName": "Queen Xandra",
+        "adjective": [
+            "Xandrian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            107,
+            173,
+            187
+        ],
+        "innerColor": [
+            148,
+            82,
+            68
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Xandria Prime",
+            "Xandria Haven",
+            "Xandria Reach",
+            "Xandria Gate",
+            "Xandria Crown",
+            "Xandria Ford",
+            "Xandria Rise"
+        ]
+    },
+    {
+        "name": "Yvarra",
+        "leaderName": "Khan Yvar",
+        "adjective": [
+            "Yvarran"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            144,
+            0,
+            82
+        ],
+        "innerColor": [
+            111,
+            255,
+            173
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Yvarra Prime",
+            "Yvarra Haven",
+            "Yvarra Reach",
+            "Yvarra Gate",
+            "Yvarra Crown",
+            "Yvarra Ford",
+            "Yvarra Rise"
+        ]
+    },
+    {
+        "name": "Zelvara",
+        "leaderName": "Empress Zel",
+        "adjective": [
+            "Zelvaran"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            181,
+            83,
+            233
+        ],
+        "innerColor": [
+            74,
+            172,
+            22
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Zelvara Prime",
+            "Zelvara Haven",
+            "Zelvara Reach",
+            "Zelvara Gate",
+            "Zelvara Crown",
+            "Zelvara Ford",
+            "Zelvara Rise"
+        ]
+    },
+    {
+        "name": "Amareth",
+        "leaderName": "High Queen Ama",
+        "adjective": [
+            "Amarethian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            218,
+            166,
+            128
+        ],
+        "innerColor": [
+            37,
+            89,
+            127
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Amareth Prime",
+            "Amareth Haven",
+            "Amareth Reach",
+            "Amareth Gate",
+            "Amareth Crown",
+            "Amareth Ford",
+            "Amareth Rise"
+        ]
+    },
+    {
+        "name": "Bravena",
+        "leaderName": "Duke Braven",
+        "adjective": [
+            "Bravenian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            255,
+            249,
+            23
+        ],
+        "innerColor": [
+            0,
+            6,
+            232
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Bravena Prime",
+            "Bravena Haven",
+            "Bravena Reach",
+            "Bravena Gate",
+            "Bravena Crown",
+            "Bravena Ford",
+            "Bravena Rise"
+        ]
+    },
+    {
+        "name": "Caldorin",
+        "leaderName": "Scholar Caldor",
+        "adjective": [
+            "Caldorian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            36,
+            76,
+            174
+        ],
+        "innerColor": [
+            219,
+            179,
+            81
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Caldorin Prime",
+            "Caldorin Haven",
+            "Caldorin Reach",
+            "Caldorin Gate",
+            "Caldorin Crown",
+            "Caldorin Ford",
+            "Caldorin Rise"
+        ]
+    },
+    {
+        "name": "Davenna",
+        "leaderName": "Queen Daven",
+        "adjective": [
+            "Davennian"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            73,
+            159,
+            69
+        ],
+        "innerColor": [
+            182,
+            96,
+            186
+        ],
+        "uniqueName": "Civic Balance",
+        "uniques": [
+            "[+1 Gold, +1 Production] [in all cities]",
+            "+25% Production when constructing [All] wonders [in all cities]",
+            "[+1 Production] [in all cities] <after discovering [Engineering]>"
+        ],
+        "cities": [
+            "Davenna Prime",
+            "Davenna Haven",
+            "Davenna Reach",
+            "Davenna Gate",
+            "Davenna Crown",
+            "Davenna Ford",
+            "Davenna Rise"
+        ]
+    },
+    {
+        "name": "Esmara",
+        "leaderName": "Sultana Esma",
+        "adjective": [
+            "Esmaran"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Grassland"
+        ],
+        "outerColor": [
+            110,
+            242,
+            220
+        ],
+        "innerColor": [
+            145,
+            13,
+            35
+        ],
+        "uniqueName": "River Thrones",
+        "uniques": [
+            "[+1 Food] [in all cities]",
+            "+20% growth [in all cities]",
+            "[+1 Food] [in all cities] <before discovering [Biology]>"
+        ],
+        "cities": [
+            "Esmara Prime",
+            "Esmara Haven",
+            "Esmara Reach",
+            "Esmara Gate",
+            "Esmara Crown",
+            "Esmara Ford",
+            "Esmara Rise"
+        ]
+    },
+    {
+        "name": "Faronis",
+        "leaderName": "General Faro",
+        "adjective": [
+            "Faronian"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            147,
+            69,
+            115
+        ],
+        "innerColor": [
+            108,
+            186,
+            140
+        ],
+        "uniqueName": "Open Markets",
+        "uniques": [
+            "[+1 Science] [in all cities]",
+            "+20% [Science]",
+            "[+1 Science] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Faronis Prime",
+            "Faronis Haven",
+            "Faronis Reach",
+            "Faronis Gate",
+            "Faronis Crown",
+            "Faronis Ford",
+            "Faronis Rise"
+        ]
+    },
+    {
+        "name": "Glyndor",
+        "leaderName": "King Glynn",
+        "adjective": [
+            "Glyndorian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            184,
+            152,
+            10
+        ],
+        "innerColor": [
+            71,
+            103,
+            245
+        ],
+        "uniqueName": "Age of Inquiry",
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "+20% [Culture]",
+            "[+1 Culture] [in all cities] <after discovering [Drama and Poetry]>"
+        ],
+        "cities": [
+            "Glyndor Prime",
+            "Glyndor Haven",
+            "Glyndor Reach",
+            "Glyndor Gate",
+            "Glyndor Crown",
+            "Glyndor Ford",
+            "Glyndor Rise"
+        ]
+    },
+    {
+        "name": "Halcyra",
+        "leaderName": "Queen Halcyne",
+        "adjective": [
+            "Halcyran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            221,
+            235,
+            161
+        ],
+        "innerColor": [
+            34,
+            20,
+            94
+        ],
+        "uniqueName": "Sea Dominion",
+        "uniques": [
+            "[+1 Gold] [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]",
+            "[+1 Gold] [in all cities] <after discovering [Currency]>"
+        ],
+        "cities": [
+            "Halcyra Prime",
+            "Halcyra Haven",
+            "Halcyra Reach",
+            "Halcyra Gate",
+            "Halcyra Crown",
+            "Halcyra Ford",
+            "Halcyra Rise"
+        ]
+    },
+    {
+        "name": "Iverna",
+        "leaderName": "Lady Ivera",
+        "adjective": [
+            "Ivernian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            2,
+            62,
+            56
+        ],
+        "innerColor": [
+            253,
+            193,
+            199
+        ],
+        "uniqueName": "Sacred Heritage",
+        "uniques": [
+            "[+1 Production] [in all cities]",
+            "[-25]% maintenance costs <for [Land] units>",
+            "[+1 Production] [in all cities] <after discovering [Metal Casting]>"
+        ],
+        "cities": [
+            "Iverna Prime",
+            "Iverna Haven",
+            "Iverna Reach",
+            "Iverna Gate",
+            "Iverna Crown",
+            "Iverna Ford",
+            "Iverna Rise"
+        ]
+    },
+    {
+        "name": "Jalmera",
+        "leaderName": "Emir Jal",
+        "adjective": [
+            "Jalmeran"
+        ],
+        "preferredVictoryType": "Diplomatic",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            39,
+            145,
+            207
+        ],
+        "innerColor": [
+            216,
+            110,
+            48
+        ],
+        "uniqueName": "Concord of Cities",
+        "uniques": [
+            "[+1 Faith] [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
+            "[+1 Faith] [in all cities] <after discovering [Philosophy]>"
+        ],
+        "cities": [
+            "Jalmera Prime",
+            "Jalmera Haven",
+            "Jalmera Reach",
+            "Jalmera Gate",
+            "Jalmera Crown",
+            "Jalmera Ford",
+            "Jalmera Rise"
+        ]
+    },
+    {
+        "name": "Koriah",
+        "leaderName": "Marshal Kori",
+        "adjective": [
+            "Koriahn"
+        ],
+        "preferredVictoryType": "Domination",
+        "startBias": [
+            "Coast"
+        ],
+        "outerColor": [
+            76,
+            228,
+            102
+        ],
+        "innerColor": [
+            179,
+            27,
+            153
+        ],
+        "uniqueName": "Iron Resolve",
+        "uniques": [
+            "[+2] Movement <for [Water] units>",
+            "[+1] Sight <for [Water] units>",
+            "[+1] Movement <for [Water] units> <after discovering [Astronomy]>"
+        ],
+        "cities": [
+            "Koriah Prime",
+            "Koriah Haven",
+            "Koriah Reach",
+            "Koriah Gate",
+            "Koriah Crown",
+            "Koriah Ford",
+            "Koriah Rise"
+        ]
+    },
+    {
+        "name": "Lazuria",
+        "leaderName": "Queen Lazur",
+        "adjective": [
+            "Lazurian"
+        ],
+        "preferredVictoryType": "Scientific",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            113,
+            55,
+            253
+        ],
+        "innerColor": [
+            142,
+            200,
+            2
+        ],
+        "uniqueName": "Grand Academies",
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "[+15]% growth [in all cities]",
+            "[+1 Happiness] [in all cities] <after discovering [Education]>"
+        ],
+        "cities": [
+            "Lazuria Prime",
+            "Lazuria Haven",
+            "Lazuria Reach",
+            "Lazuria Gate",
+            "Lazuria Crown",
+            "Lazuria Ford",
+            "Lazuria Rise"
+        ]
+    },
+    {
+        "name": "Morvane",
+        "leaderName": "King Morven",
+        "adjective": [
+            "Morvanian"
+        ],
+        "preferredVictoryType": "Cultural",
+        "startBias": [
+            "Plains"
+        ],
+        "outerColor": [
+            150,
+            138,
+            148
+        ],
+        "innerColor": [
+            105,
+            117,
+            107
+        ],
+        "uniqueName": "Merchant Princes",
+        "uniques": [
+            "[+25]% Production when constructing [Melee] units [in all cities]",
+            "[+10]% Strength <for [All] units>",
+            "[+10]% Strength <for [All] units> <after discovering [Gunpowder]>"
+        ],
+        "cities": [
+            "Morvane Prime",
+            "Morvane Haven",
+            "Morvane Reach",
+            "Morvane Gate",
+            "Morvane Crown",
+            "Morvane Ford",
+            "Morvane Rise"
+        ]
+    }
+]
