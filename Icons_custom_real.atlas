@@ -1,0 +1,2106 @@
+Icons_custom_real.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+
+NationIcons/Aurelia
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Vardesh
+  rotate: false
+  xy: 104, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Qasira
+  rotate: false
+  xy: 204, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ceryth
+  rotate: false
+  xy: 304, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Talassar
+  rotate: false
+  xy: 404, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eldara
+  rotate: false
+  xy: 504, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sorevia
+  rotate: false
+  xy: 604, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kharadun
+  rotate: false
+  xy: 704, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nemeris
+  rotate: false
+  xy: 804, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Veloria
+  rotate: false
+  xy: 904, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iskandria
+  rotate: false
+  xy: 4, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rathen
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Myrath
+  rotate: false
+  xy: 204, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ostrava
+  rotate: false
+  xy: 304, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zoravia
+  rotate: false
+  xy: 404, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pelagos
+  rotate: false
+  xy: 504, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Arkenfall
+  rotate: false
+  xy: 604, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Saphrene
+  rotate: false
+  xy: 704, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Damaris
+  rotate: false
+  xy: 804, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Korinthar
+  rotate: false
+  xy: 904, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nayara
+  rotate: false
+  xy: 4, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Belvar
+  rotate: false
+  xy: 104, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ephyria
+  rotate: false
+  xy: 204, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Thessara
+  rotate: false
+  xy: 304, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Marovia
+  rotate: false
+  xy: 404, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Qadarin
+  rotate: false
+  xy: 504, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Luthene
+  rotate: false
+  xy: 604, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Karthis
+  rotate: false
+  xy: 704, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Samyra
+  rotate: false
+  xy: 804, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orvannis
+  rotate: false
+  xy: 904, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eryndor
+  rotate: false
+  xy: 4, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Velskar
+  rotate: false
+  xy: 104, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cassara
+  rotate: false
+  xy: 204, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Neravia
+  rotate: false
+  xy: 304, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Azrane
+  rotate: false
+  xy: 404, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Feyrun
+  rotate: false
+  xy: 504, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Dravik
+  rotate: false
+  xy: 604, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orelia
+  rotate: false
+  xy: 704, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Selvarin
+  rotate: false
+  xy: 804, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tirash
+  rotate: false
+  xy: 904, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mavrena
+  rotate: false
+  xy: 4, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Asterra
+  rotate: false
+  xy: 104, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rovenna
+  rotate: false
+  xy: 204, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Delyria
+  rotate: false
+  xy: 304, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kessan
+  rotate: false
+  xy: 404, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Uvarra
+  rotate: false
+  xy: 504, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nymora
+  rotate: false
+  xy: 604, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Virelia
+  rotate: false
+  xy: 704, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sarneth
+  rotate: false
+  xy: 804, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Elvarra
+  rotate: false
+  xy: 904, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Caelora
+  rotate: false
+  xy: 4, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mordane
+  rotate: false
+  xy: 104, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ilyria Nova
+  rotate: false
+  xy: 204, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rhenora
+  rotate: false
+  xy: 304, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Valtessa
+  rotate: false
+  xy: 404, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nisara
+  rotate: false
+  xy: 504, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orinth
+  rotate: false
+  xy: 604, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Elaris
+  rotate: false
+  xy: 704, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Varenth
+  rotate: false
+  xy: 804, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sorellia
+  rotate: false
+  xy: 904, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Khazara
+  rotate: false
+  xy: 4, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Meridia
+  rotate: false
+  xy: 104, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Avenor
+  rotate: false
+  xy: 204, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Brisara
+  rotate: false
+  xy: 304, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Dorseth
+  rotate: false
+  xy: 404, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Estenya
+  rotate: false
+  xy: 504, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Faloria
+  rotate: false
+  xy: 604, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ghalira
+  rotate: false
+  xy: 704, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hesperis
+  rotate: false
+  xy: 804, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ithara
+  rotate: false
+  xy: 904, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jorvane
+  rotate: false
+  xy: 4, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kelmora
+  rotate: false
+  xy: 104, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Lyradis
+  rotate: false
+  xy: 204, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Merenza
+  rotate: false
+  xy: 304, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Navorra
+  rotate: false
+  xy: 404, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ophira
+  rotate: false
+  xy: 504, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Paleron
+  rotate: false
+  xy: 604, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Quenaris
+  rotate: false
+  xy: 704, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ravessa
+  rotate: false
+  xy: 804, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Seldane
+  rotate: false
+  xy: 904, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tavaria
+  rotate: false
+  xy: 4, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ulmaris
+  rotate: false
+  xy: 104, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Vesperin
+  rotate: false
+  xy: 204, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Weylan
+  rotate: false
+  xy: 304, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Xandria
+  rotate: false
+  xy: 404, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Yvarra
+  rotate: false
+  xy: 504, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zelvara
+  rotate: false
+  xy: 604, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Amareth
+  rotate: false
+  xy: 704, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bravena
+  rotate: false
+  xy: 804, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Caldorin
+  rotate: false
+  xy: 904, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Davenna
+  rotate: false
+  xy: 4, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Esmara
+  rotate: false
+  xy: 104, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Faronis
+  rotate: false
+  xy: 204, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Glyndor
+  rotate: false
+  xy: 304, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Halcyra
+  rotate: false
+  xy: 404, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iverna
+  rotate: false
+  xy: 504, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jalmera
+  rotate: false
+  xy: 604, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Koriah
+  rotate: false
+  xy: 704, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Lazuria
+  rotate: false
+  xy: 804, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Morvane
+  rotate: false
+  xy: 904, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Aurelia Guard
+  rotate: false
+  xy: 1028, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Vardesh Ranger
+  rotate: false
+  xy: 1128, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Qasira Lancer
+  rotate: false
+  xy: 1228, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ceryth Riders
+  rotate: false
+  xy: 1328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Talassar Legion
+  rotate: false
+  xy: 1428, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eldara Marksmen
+  rotate: false
+  xy: 1528, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sorevia Crossbow
+  rotate: false
+  xy: 1628, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kharadun Cavalry
+  rotate: false
+  xy: 1728, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nemeris Musketeers
+  rotate: false
+  xy: 1828, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Veloria Rifles
+  rotate: false
+  xy: 1928, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Iskandria Dragoons
+  rotate: false
+  xy: 1028, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rathen Infantry
+  rotate: false
+  xy: 1128, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Myrath Armored Guard
+  rotate: false
+  xy: 1228, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ostrava Guard
+  rotate: false
+  xy: 1328, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zoravia Ranger
+  rotate: false
+  xy: 1428, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pelagos Lancer
+  rotate: false
+  xy: 1528, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Arkenfall Riders
+  rotate: false
+  xy: 1628, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Saphrene Legion
+  rotate: false
+  xy: 1728, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Damaris Marksmen
+  rotate: false
+  xy: 1828, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Korinthar Crossbow
+  rotate: false
+  xy: 1928, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nayara Cavalry
+  rotate: false
+  xy: 1028, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Belvar Musketeers
+  rotate: false
+  xy: 1128, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ephyria Rifles
+  rotate: false
+  xy: 1228, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thessara Dragoons
+  rotate: false
+  xy: 1328, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Marovia Infantry
+  rotate: false
+  xy: 1428, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Qadarin Armored Guard
+  rotate: false
+  xy: 1528, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Luthene Guard
+  rotate: false
+  xy: 1628, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Karthis Ranger
+  rotate: false
+  xy: 1728, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Samyra Lancer
+  rotate: false
+  xy: 1828, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orvannis Riders
+  rotate: false
+  xy: 1928, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eryndor Legion
+  rotate: false
+  xy: 1028, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Velskar Marksmen
+  rotate: false
+  xy: 1128, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cassara Crossbow
+  rotate: false
+  xy: 1228, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Neravia Cavalry
+  rotate: false
+  xy: 1328, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Azrane Musketeers
+  rotate: false
+  xy: 1428, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Feyrun Rifles
+  rotate: false
+  xy: 1528, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dravik Dragoons
+  rotate: false
+  xy: 1628, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orelia Infantry
+  rotate: false
+  xy: 1728, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Selvarin Armored Guard
+  rotate: false
+  xy: 1828, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tirash Guard
+  rotate: false
+  xy: 1928, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mavrena Ranger
+  rotate: false
+  xy: 1028, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Asterra Lancer
+  rotate: false
+  xy: 1128, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rovenna Riders
+  rotate: false
+  xy: 1228, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Delyria Legion
+  rotate: false
+  xy: 1328, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kessan Marksmen
+  rotate: false
+  xy: 1428, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Uvarra Crossbow
+  rotate: false
+  xy: 1528, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nymora Cavalry
+  rotate: false
+  xy: 1628, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Virelia Musketeers
+  rotate: false
+  xy: 1728, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarneth Rifles
+  rotate: false
+  xy: 1828, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elvarra Dragoons
+  rotate: false
+  xy: 1928, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Caelora Infantry
+  rotate: false
+  xy: 1028, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mordane Armored Guard
+  rotate: false
+  xy: 1128, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ilyria Nova Guard
+  rotate: false
+  xy: 1228, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rhenora Ranger
+  rotate: false
+  xy: 1328, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Valtessa Lancer
+  rotate: false
+  xy: 1428, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nisara Riders
+  rotate: false
+  xy: 1528, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orinth Legion
+  rotate: false
+  xy: 1628, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elaris Marksmen
+  rotate: false
+  xy: 1728, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Varenth Crossbow
+  rotate: false
+  xy: 1828, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sorellia Cavalry
+  rotate: false
+  xy: 1928, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Khazara Musketeers
+  rotate: false
+  xy: 1028, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Meridia Rifles
+  rotate: false
+  xy: 1128, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Avenor Dragoons
+  rotate: false
+  xy: 1228, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Brisara Infantry
+  rotate: false
+  xy: 1328, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dorseth Armored Guard
+  rotate: false
+  xy: 1428, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Estenya Guard
+  rotate: false
+  xy: 1528, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Faloria Ranger
+  rotate: false
+  xy: 1628, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ghalira Lancer
+  rotate: false
+  xy: 1728, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hesperis Riders
+  rotate: false
+  xy: 1828, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ithara Legion
+  rotate: false
+  xy: 1928, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jorvane Marksmen
+  rotate: false
+  xy: 1028, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kelmora Crossbow
+  rotate: false
+  xy: 1128, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lyradis Cavalry
+  rotate: false
+  xy: 1228, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Merenza Musketeers
+  rotate: false
+  xy: 1328, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Navorra Rifles
+  rotate: false
+  xy: 1428, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ophira Dragoons
+  rotate: false
+  xy: 1528, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Paleron Infantry
+  rotate: false
+  xy: 1628, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Quenaris Armored Guard
+  rotate: false
+  xy: 1728, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ravessa Guard
+  rotate: false
+  xy: 1828, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Seldane Ranger
+  rotate: false
+  xy: 1928, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tavaria Lancer
+  rotate: false
+  xy: 1028, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ulmaris Riders
+  rotate: false
+  xy: 1128, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Vesperin Legion
+  rotate: false
+  xy: 1228, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Weylan Marksmen
+  rotate: false
+  xy: 1328, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Xandria Crossbow
+  rotate: false
+  xy: 1428, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yvarra Cavalry
+  rotate: false
+  xy: 1528, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zelvara Musketeers
+  rotate: false
+  xy: 1628, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amareth Rifles
+  rotate: false
+  xy: 1728, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bravena Dragoons
+  rotate: false
+  xy: 1828, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Caldorin Infantry
+  rotate: false
+  xy: 1928, 804
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Davenna Armored Guard
+  rotate: false
+  xy: 1028, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Esmara Guard
+  rotate: false
+  xy: 1128, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Faronis Ranger
+  rotate: false
+  xy: 1228, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Glyndor Lancer
+  rotate: false
+  xy: 1328, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Halcyra Riders
+  rotate: false
+  xy: 1428, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Iverna Legion
+  rotate: false
+  xy: 1528, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jalmera Marksmen
+  rotate: false
+  xy: 1628, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Koriah Crossbow
+  rotate: false
+  xy: 1728, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lazuria Cavalry
+  rotate: false
+  xy: 1828, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Morvane Musketeers
+  rotate: false
+  xy: 1928, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Aurelia Hearth
+  rotate: false
+  xy: 4, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vardesh Archive
+  rotate: false
+  xy: 104, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Qasira Sanctum
+  rotate: false
+  xy: 204, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ceryth Foundry
+  rotate: false
+  xy: 304, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Talassar Citadel
+  rotate: false
+  xy: 404, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eldara Exchange
+  rotate: false
+  xy: 504, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sorevia Observatory
+  rotate: false
+  xy: 604, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kharadun Harbor
+  rotate: false
+  xy: 704, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nemeris Guildhall
+  rotate: false
+  xy: 804, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Veloria Hall
+  rotate: false
+  xy: 904, 1028
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iskandria Hearth
+  rotate: false
+  xy: 4, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rathen Archive
+  rotate: false
+  xy: 104, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Myrath Sanctum
+  rotate: false
+  xy: 204, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ostrava Foundry
+  rotate: false
+  xy: 304, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Zoravia Citadel
+  rotate: false
+  xy: 404, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pelagos Exchange
+  rotate: false
+  xy: 504, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arkenfall Observatory
+  rotate: false
+  xy: 604, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Saphrene Harbor
+  rotate: false
+  xy: 704, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Damaris Guildhall
+  rotate: false
+  xy: 804, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Korinthar Hall
+  rotate: false
+  xy: 904, 1128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nayara Hearth
+  rotate: false
+  xy: 4, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Belvar Archive
+  rotate: false
+  xy: 104, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ephyria Sanctum
+  rotate: false
+  xy: 204, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thessara Foundry
+  rotate: false
+  xy: 304, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Marovia Citadel
+  rotate: false
+  xy: 404, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Qadarin Exchange
+  rotate: false
+  xy: 504, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Luthene Observatory
+  rotate: false
+  xy: 604, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Karthis Harbor
+  rotate: false
+  xy: 704, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Samyra Guildhall
+  rotate: false
+  xy: 804, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orvannis Hall
+  rotate: false
+  xy: 904, 1228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eryndor Hearth
+  rotate: false
+  xy: 4, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Velskar Archive
+  rotate: false
+  xy: 104, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cassara Sanctum
+  rotate: false
+  xy: 204, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Neravia Foundry
+  rotate: false
+  xy: 304, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Azrane Citadel
+  rotate: false
+  xy: 404, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Feyrun Exchange
+  rotate: false
+  xy: 504, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dravik Observatory
+  rotate: false
+  xy: 604, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orelia Harbor
+  rotate: false
+  xy: 704, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Selvarin Guildhall
+  rotate: false
+  xy: 804, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tirash Hall
+  rotate: false
+  xy: 904, 1328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mavrena Hearth
+  rotate: false
+  xy: 4, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Asterra Archive
+  rotate: false
+  xy: 104, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rovenna Sanctum
+  rotate: false
+  xy: 204, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Delyria Foundry
+  rotate: false
+  xy: 304, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kessan Citadel
+  rotate: false
+  xy: 404, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Uvarra Exchange
+  rotate: false
+  xy: 504, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nymora Observatory
+  rotate: false
+  xy: 604, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Virelia Harbor
+  rotate: false
+  xy: 704, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sarneth Guildhall
+  rotate: false
+  xy: 804, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Elvarra Hall
+  rotate: false
+  xy: 904, 1428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caelora Hearth
+  rotate: false
+  xy: 4, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mordane Archive
+  rotate: false
+  xy: 104, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ilyria Nova Sanctum
+  rotate: false
+  xy: 204, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rhenora Foundry
+  rotate: false
+  xy: 304, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Valtessa Citadel
+  rotate: false
+  xy: 404, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nisara Exchange
+  rotate: false
+  xy: 504, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orinth Observatory
+  rotate: false
+  xy: 604, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Elaris Harbor
+  rotate: false
+  xy: 704, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Varenth Guildhall
+  rotate: false
+  xy: 804, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sorellia Hall
+  rotate: false
+  xy: 904, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Khazara Hearth
+  rotate: false
+  xy: 4, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Meridia Archive
+  rotate: false
+  xy: 104, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Avenor Sanctum
+  rotate: false
+  xy: 204, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Brisara Foundry
+  rotate: false
+  xy: 304, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dorseth Citadel
+  rotate: false
+  xy: 404, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Estenya Exchange
+  rotate: false
+  xy: 504, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Faloria Observatory
+  rotate: false
+  xy: 604, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ghalira Harbor
+  rotate: false
+  xy: 704, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hesperis Guildhall
+  rotate: false
+  xy: 804, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ithara Hall
+  rotate: false
+  xy: 904, 1628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Jorvane Hearth
+  rotate: false
+  xy: 4, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kelmora Archive
+  rotate: false
+  xy: 104, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lyradis Sanctum
+  rotate: false
+  xy: 204, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Merenza Foundry
+  rotate: false
+  xy: 304, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Navorra Citadel
+  rotate: false
+  xy: 404, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ophira Exchange
+  rotate: false
+  xy: 504, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Paleron Observatory
+  rotate: false
+  xy: 604, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Quenaris Harbor
+  rotate: false
+  xy: 704, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ravessa Guildhall
+  rotate: false
+  xy: 804, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seldane Hall
+  rotate: false
+  xy: 904, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tavaria Hearth
+  rotate: false
+  xy: 4, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ulmaris Archive
+  rotate: false
+  xy: 104, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vesperin Sanctum
+  rotate: false
+  xy: 204, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Weylan Foundry
+  rotate: false
+  xy: 304, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Xandria Citadel
+  rotate: false
+  xy: 404, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yvarra Exchange
+  rotate: false
+  xy: 504, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Zelvara Observatory
+  rotate: false
+  xy: 604, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Amareth Harbor
+  rotate: false
+  xy: 704, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bravena Guildhall
+  rotate: false
+  xy: 804, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caldorin Hall
+  rotate: false
+  xy: 904, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Davenna Hearth
+  rotate: false
+  xy: 4, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Esmara Archive
+  rotate: false
+  xy: 104, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Faronis Sanctum
+  rotate: false
+  xy: 204, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Glyndor Foundry
+  rotate: false
+  xy: 304, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Halcyra Citadel
+  rotate: false
+  xy: 404, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iverna Exchange
+  rotate: false
+  xy: 504, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Jalmera Observatory
+  rotate: false
+  xy: 604, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Koriah Harbor
+  rotate: false
+  xy: 704, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lazuria Guildhall
+  rotate: false
+  xy: 804, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Morvane Hall
+  rotate: false
+  xy: 904, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
